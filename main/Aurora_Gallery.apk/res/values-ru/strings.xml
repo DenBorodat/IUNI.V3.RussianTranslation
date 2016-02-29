@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_picture">Обрезать изображение</string>
+    <string name="wallpaper_set">Обои</string>
+    <string name="goto_filemanager">Другие файлы</string>
+    <string name="action_title">%1$d изображений</string>
+    <string name="date_day">День</string>
+    <string name="date_month">Месяц</string>
+    <string name="myselect_all">Выбрать все</string>
+    <string name="unmyselect_all">Отменить выбор</string>
+    <string name="delete_finish">Удалить %1$d файлов</string>
+    <string name="update_pic">Обновляем изображения…</string>
+    <string name="appwidget_empty_video">Видео нет</string>
+    <string name="aurora_wallpaper">Галерея</string>
+    <string name="aurora_storage_root">Телефон</string>
+    <string name="aurora_storage_external">Внешняя</string>
+    <string name="aurora_storage_internal">Внутренняя</string>
+    <string name="photo_edit_action_bar_save">Сохранить</string>
+    <string name="photo_edit_action_bar_cancel">Отменить</string>
+    <string name="photo_edit_action_bar_confirm_crop">Подтвердить обрезку</string>
+    <string name="photo_edit_action_bar_confirm_filter">Сохранить</string>
+    <string name="photo_edit_action_bar_return">Назад</string>
+    <string name="photo_edit_cancel_current_edit">Отменить текущее редактирование?</string>
+    <string name="photo_edit_cancel_filter">Отменить фильтр?</string>
+    <string name="photo_edit_cancel_crop">Отменить обрезку?</string>
+    <string name="photo_edit_cancel_tip_title">Совет</string>
+    <string name="aurora_effects">Эффекты фильтров Aurora</string>
+    <string name="aurora_effects_normal">Нормальный</string>
+    <string name="aurora_effects_reversal">Разворот</string>
+    <string name="aurora_effects_crayon">Карандаш</string>
+    <string name="aurora_effects_fleeting_time">Мимолетное время</string>
+    <string name="aurora_effects_cosmetology_backlight">Косметология</string>
+    <string name="aurora_effects_japan_backlight">Подсветка</string>
+    <string name="aurora_effects_cold_lomo">Холодный ЛОМО</string>
+    <string name="aurora_effects_sunset">Закат</string>
+    <string name="aurora_effects_softpink">Мягкий розовый</string>
+    <string name="aurora_effects_warm_lomo">Теплый ЛОМО</string>
+    <string name="aurora_effects_reflection">Отражение</string>
+    <string name="aurora_effects_light_beam">Луч света</string>
+    <string name="aurora_effects_snowflakes">Снежинки</string>
+    <string name="aurora_pitu_not_installed_tip_title">TTPic</string>
+    <string name="aurora_pitu_not_installed_tip_message">TTPic не установлен</string>
+    <string name="aurora_pitu_installing_tip_title">TTPic</string>
+    <string name="aurora_pitu_installing_tip_message">Установка TTPic</string>
+    <string name="aurora_pitu_install">Установить</string>
+    <string name="aurora_error_notice_title">Заметка</string>
+    <string name="aurora_error_notice">Память системы недоступна, попробуйте еще раз!</string>
+    <string name="title_activity_filter_show">Фоторедактор</string>
+    <string name="cannot_load_image">Невозможно загрузить изображения!</string>
+    <string name="cannot_edit_original">Невозможно редактировать оригинальное изображение</string>
+    <string name="setting_wallpaper">Установка обоев</string>
+    <string name="download_failure">Неудачная загрузка фото. Сеть недоступна.</string>
+    <string name="original">Оригинал</string>
+    <string name="borders">Рамки</string>
+    <string name="custom_border">Пользовательский</string>
+    <string name="filtershow_undo">Отменить</string>
+    <string name="filtershow_redo">Переделать</string>
+    <string name="show_imagestate_panel">Показать свойства изображения</string>
+    <string name="hide_imagestate_panel">Свернуть свойства изображения</string>
+    <string name="export_image">Экспортировать</string>
+    <string name="print_image">Печать</string>
+    <string name="export_flattened">Экспорт плоского изображения</string>
+    <string name="select_output_settings">Экспортируемое изображение будет копией, без истории</string>
+    <string name="quality">Качество</string>
+    <string name="size">Размер</string>
+    <string name="x">x</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="unsaved">Есть несохраненные изменения этого изображения</string>
+    <string name="save_before_exit">Сохранить перед выходом?</string>
+    <string name="save_and_exit">Сохранить и выйти</string>
+    <string name="save_and_processing">Обработка полного разрешения изображения…</string>
+    <string name="exit">Выйти</string>
+    <string name="history">История</string>
+    <string name="reset">Восстановить исходные свойства</string>
+    <string name="imageState">Текущие свойства изображения</string>
+    <string name="compare_original">Сравнить</string>
+    <string name="apply_effect">Применить</string>
+    <string name="reset_effect">Сбросить</string>
+    <string name="aspect">Соотношение сторон</string>
+    <string name="aspect1to1_effect">1:1</string>
+    <string name="aspect4to3_effect">4:3</string>
+    <string name="aspect3to4_effect">3:4</string>
+    <string name="aspect4to6_effect">4:6</string>
+    <string name="aspect5to7_effect">5:7</string>
+    <string name="aspect7to5_effect">7:5</string>
+    <string name="aspect9to16_effect">16:9</string>
+    <string name="aspectNone_effect">Произвольное</string>
+    <string name="Fixed">Исправлено</string>
+    <string name="tinyplanet">Крошечная планета</string>
+    <string name="exposure">Экспозиция</string>
+    <string name="sharpness">Резкость</string>
+    <string name="contrast">Контраст</string>
+    <string name="vibrance">Насыщенность</string>
+    <string name="bwfilter">Ч-Б фильтр</string>
+    <string name="wbalance">Авто</string>
+    <string name="hue">Оттенок</string>
+    <string name="shadow_recovery">Тени</string>
+    <string name="highlight_recovery">Блики</string>
+    <string name="curvesRGB">Кривые</string>
+    <string name="vignette_main">Виньетка</string>
+    <string name="vignette_exposure">Экспозиция</string>
+    <string name="vignette_saturation">Насыщенность</string>
+    <string name="vignette_contrast">Контрастность</string>
+    <string name="vignette_falloff">Определение</string>
+    <string name="imageDraw">Рисование</string>
+    <string name="mirror">Отразить</string>
+    <string name="none">Нет</string>
+    <string name="edge">Кромка</string>
+    <string name="kmeans">Постеризация</string>
+    <string name="downsample">Понижение разрешения</string>
+    <string name="grad">Завершено</string>
+    <string name="editor_grad_brightness">Яркость</string>
+    <string name="editor_grad_contrast">Контрастность</string>
+    <string name="editor_chan_sat_main">Основной</string>
+    <string name="editor_chan_sat_red">Красный</string>
+    <string name="editor_chan_sat_yellow">Жёлтый</string>
+    <string name="editor_chan_sat_green">Зелёный</string>
+    <string name="editor_chan_sat_cyan">Голубой</string>
+    <string name="editor_chan_sat_blue">Синий</string>
+    <string name="editor_chan_sat_magenta">Пурпурный</string>
+    <string name="editor_grad_style">Стиль</string>
+    <string name="editor_grad_new">новое</string>
+    <string name="curves_channel_rgb">RGB</string>
+    <string name="curves_channel_red">Красный</string>
+    <string name="curves_channel_green">Зеленый</string>
+    <string name="curves_channel_blue">Синий</string>
+    <string name="draw_style">Стиль</string>
+    <string name="draw_size">Размер</string>
+    <string name="draw_hue">Оттенок</string>
+    <string name="draw_saturation">Насыщенность</string>
+    <string name="draw_value">Яркость</string>
+    <string name="draw_color">Цвет</string>
+    <string name="draw_style_line">Линии</string>
+    <string name="draw_style_brush_spatter">Маркер</string>
+    <string name="draw_style_brush_marker">Брызги</string>
+    <string name="draw_clear">Очистить</string>
+    <string name="color_border_size">Толщина</string>
+    <string name="color_border_corner_size">Угловой размер</string>
+    <string name="color_border_color">Цвет</string>
+    <string name="color_border_clear">Очистить</string>
+    <string name="color_pick_select">Выбрать пользовательский цвет</string>
+    <string name="color_pick_title">Выбрать цвет</string>
+    <string name="draw_size_title">Выбрать размер</string>
+    <string name="draw_size_accept">OK</string>
+    <string name="state_panel_original">Оригинал</string>
+    <string name="state_panel_result">Результат</string>
+    <string name="filtershow_notification_label">Сохранение изображения</string>
+    <string name="filtershow_notification_message">Обработка…</string>
+    <string name="filtershow_save_preset">Сохранить текущий пресет</string>
+    <string name="filtershow_manage_preset">Управление пользовательскими пресетами</string>
+    <string name="filtershow_new_preset">Новый пресет</string>
+    <string name="filtershow_preset_name">Имя пресета</string>
+    <string name="filtershow_show_info_panel">Информация</string>
+    <string name="filtershow_show_info_panel_name">Имя изображения</string>
+    <string name="filtershow_show_info_panel_size">Размер изображения</string>
+    <string name="filtershow_show_info_panel_histogram">Гистограмма</string>
+    <string name="filtershow_show_info_panel_exif">Данные EXIF</string>
+    <string name="filtershow_add_button_looks">Пресет</string>
+    <string name="filtershow_add_button_versions">Версия</string>
+    <string name="filtershow_version_original">Оригинальное</string>
+    <string name="filtershow_version_current">Текущее</string>
+    <string name="filtershow_exif_model">Модель</string>
+    <string name="filtershow_exif_aperture">Диафрагма</string>
+    <string name="filtershow_exif_focal_length">Фокусное расстояние</string>
+    <string name="filtershow_exif_iso">ISO</string>
+    <string name="filtershow_exif_subject_distance">Расстояние до объекта</string>
+    <string name="filtershow_exif_date">Дата съемки</string>
+    <string name="filtershow_exif_f_stop">F Stop</string>
+    <string name="filtershow_exif_exposure_time">Время экспозиции</string>
+    <string name="filtershow_exif_copyright">Авторские права</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="vignette">Виньетка</string>
+    <string name="redeye">Красные глаза</string>
+    <string name="straighten">Выравнивание</string>
+    <string name="crop">Обрезать</string>
+    <string name="rotate">Вращение</string>
+    <string name="negative">Негатив</string>
+    <string name="photoeditor_name">Фотостудия</string>
+    <string name="loading_failure">Невозможно загрузить изображение</string>
+    <string name="saving_failure">Не удалось сохранить изменения</string>
+    <string name="photo_saved">Отредактированное фото сохранено в %s</string>
+    <string name="discard_unsaved_photo">Сбросить несохраненные изменения?</string>
+    <string name="yes">Да</string>
+    <string name="save">Сохранить</string>
+    <string name="autofix">Автокоррекция</string>
+    <string name="crossprocess">Изображение обрезается</string>
+    <string name="documentary">Документальный</string>
+    <string name="doodle">Зарисовка</string>
+    <string name="duotone">Двойной тон</string>
+    <string name="facelift">Румянец</string>
+    <string name="facetan">Загар</string>
+    <string name="filllight">Осветление</string>
+    <string name="fisheye">Рыбий глаз</string>
+    <string name="flip">Перевернуть</string>
+    <string name="grain">Зернистая пленка</string>
+    <string name="grayscale">Ч-Б</string>
+    <string name="accessibility_black_and_white">черно-белый</string>
+    <string name="highlight">Блики</string>
+    <string name="lomoish">Ломография</string>
+    <string name="posterize">Постеризация</string>
+    <string name="sepia">Сепия</string>
+    <string name="shadow">Тени</string>
+    <string name="sharpen">Резкость</string>
+    <string name="temperature">Температура цвета</string>
+    <string name="tint">Оттенок</string>
+    <string name="crop_tooltip">Перетащите маркеры, чтобы обрезать фото</string>
+    <string name="doodle_tooltip">Нарисовать рисунок на фото</string>
+    <string name="flip_tooltip">Перетащите фото, чтобы перевернуть</string>
+    <string name="redeye_tooltip">Нажмите на красные глаза, для их исправления</string>
+    <string name="rotate_tooltip">Перетащите фото, чтобы повернуть его</string>
+    <string name="straighten_tooltip">Перетащите фото для его выравнивания</string>
+    <string name="photoeditor_exposure">Эффекты экспозиции</string>
+    <string name="photoeditor_color">Цветовые эффекты</string>
+    <string name="photoeditor_artistic">Художественные эффекты</string>
+    <string name="photoeditor_fix">Коррекция</string>
+    <string name="photoeditor_undo">Отменить</string>
+    <string name="photoeditor_redo">Переделать</string>
+    <string name="app_name">Галерея</string>
+    <string name="gadget_title">Рамка изображения</string>
+    <string name="movie_view_label">Видеоплеер</string>
+    <string name="loading_video">Загрузка видео…</string>
+    <string name="loading_image">Загрузка изображения…</string>
+    <string name="loading_account">Загрузка аккаунта…</string>
+    <string name="resume_playing_title">Возобновить видео</string>
+    <string name="resume_playing_message">Возобновить видео с %s ?</string>
+    <string name="resume_playing_resume">Возобновить проигрывание</string>
+    <string name="loading">Загрузка…</string>
+    <string name="fail_to_load">Невозможно загрузить</string>
+    <string name="fail_to_load_image">Невозможно загрузить изображение</string>
+    <string name="no_thumbnail">Без миниатюр</string>
+    <string name="resume_playing_restart">Начать заново</string>
+    <string name="crop_save_text">OK</string>
+    <string name="ok">OK</string>
+    <string name="multiface_crop_help">Чтобы начать, нажмите на лице</string>
+    <string name="saving_image">Сохранение…</string>
+    <string name="filtershow_saving_image">Сохранение фото в %1$s…</string>
+    <string name="save_error">Невозможно сохранить обрезанное изображение</string>
+    <string name="crop_label">Обрезать изображение</string>
+    <string name="trim_label">Обрезать видео</string>
+    <string name="select_image">Выбрать фото</string>
+    <string name="select_video">Выбрать видео</string>
+    <string name="select_item">Выбрать файл</string>
+    <string name="select_album">Выбрать альбом</string>
+    <string name="select_group">Выбрать группу</string>
+    <string name="set_image">Уст. изображение как</string>
+    <string name="set_wallpaper">Установить обои</string>
+    <string name="wallpaper">Установка обоев…</string>
+    <string name="camera_setas_wallpaper">Обои</string>
+    <string name="delete">Удалить</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отменить</string>
+    <string name="share">Поделиться</string>
+    <string name="share_panorama">Поделиться панорамой</string>
+    <string name="share_as_photo">Поделиться как фото</string>
+    <string name="deleted">Удалено</string>
+    <string name="undo">Вернуть</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Отменить выбор</string>
+    <string name="slideshow">Слайд-шоу</string>
+    <string name="details">Информация</string>
+    <string name="details_title">%1$d из %2$d файлов:</string>
+    <string name="close">Закрыть</string>
+    <string name="switch_to_camera">Переключиться на камеру</string>
+    <string name="show_on_map">Показать на карте</string>
+    <string name="rotate_left">Повернуть влево</string>
+    <string name="rotate_right">Повернуть вправо</string>
+    <string name="no_such_item">Невозможно найти файл</string>
+    <string name="edit">Редактировать</string>
+    <string name="simple_edit">Простое редактирование</string>
+    <string name="process_caching_requests">Обработка кэширования запросов</string>
+    <string name="caching_label">Кэширование…</string>
+    <string name="crop_action">Обрезать</string>
+    <string name="trim_action">Обрезать</string>
+    <string name="mute_action">Приглушить</string>
+    <string name="set_as">Уст. как</string>
+    <string name="video_mute_err">Невозможно приглушить видео</string>
+    <string name="video_err">Невозможно проиграть видео</string>
+    <string name="group_by_location">По месту</string>
+    <string name="group_by_time">По времени</string>
+    <string name="group_by_tags">По тегам</string>
+    <string name="group_by_faces">По людям</string>
+    <string name="group_by_album">По альбому</string>
+    <string name="group_by_size">По размеру</string>
+    <string name="untagged">Без тега</string>
+    <string name="no_location">Без места</string>
+    <string name="no_connectivity">Некоторые места невозможно определить в связи с проблемами сети</string>
+    <string name="sync_album_error">Невозможно загрузить фото в этот альбом. Попробуйте позже.</string>
+    <string name="show_images_only">Только изображения</string>
+    <string name="show_videos_only">Только видео</string>
+    <string name="show_all">Видео и изображения</string>
+    <string name="appwidget_title">Галерея</string>
+    <string name="appwidget_empty_text">Изображения отсутствуют</string>
+    <string name="crop_saved">Обрезанное изображение сохранено в %s.</string>
+    <string name="no_albums_alert">Альбомы отсутствуют</string>
+    <string name="empty_album">Изображения/видео отсутствуют</string>
+    <string name="picasa_posts">Запостить</string>
+    <string name="make_available_offline">Сделать доступным офлайн</string>
+    <string name="sync_picasa_albums">Обновить</string>
+    <string name="done">Готово</string>
+    <string name="sequence_in_set">%1$d из %2$d файлов:</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="time">Дата съемки</string>
+    <string name="location">Место</string>
+    <string name="path">Путь</string>
+    <string name="width">Ширина</string>
+    <string name="height">Высота</string>
+    <string name="orientation">Ориентация</string>
+    <string name="duration">Продолжительность</string>
+    <string name="mimetype">MIME тип</string>
+    <string name="file_size">Размер файла</string>
+    <string name="maker">Автор</string>
+    <string name="model">Модель</string>
+    <string name="flash">Вспышка</string>
+    <string name="aperture">Диафрагма</string>
+    <string name="focal_length">Фокус. расстояние</string>
+    <string name="white_balance">Баланс белого</string>
+    <string name="exposure_time">Выдержка</string>
+    <string name="iso">ISO</string>
+    <string name="unit_mm">мм</string>
+    <string name="manual">Вручную</string>
+    <string name="auto">Авто</string>
+    <string name="flash_on">Со вспышкой</string>
+    <string name="flash_off">Без вспышки</string>
+    <string name="unknown">Неизвестный</string>
+    <string name="ffx_original">Оригинальное</string>
+    <string name="ffx_vintage">Винтаж</string>
+    <string name="ffx_instant">Мгновение</string>
+    <string name="ffx_bleach">Бледность</string>
+    <string name="ffx_blue_crush">Синий</string>
+    <string name="ffx_bw_contrast">Ч-Б</string>
+    <string name="ffx_punch">Перфорация</string>
+    <string name="ffx_x_process">X процесс</string>
+    <string name="ffx_washout">Латте</string>
+    <string name="ffx_washout_color">Литография</string>
+    <string name="try_to_set_local_album_available_offline">Этот альбом доступен офлайн</string>
+    <string name="set_label_all_albums">Все альбомы</string>
+    <string name="set_label_local_albums">Локальные альбомы</string>
+    <string name="set_label_mtp_devices">MTP устройства</string>
+    <string name="set_label_picasa_albums">Альбомы Picasa</string>
+    <string name="free_space_format">" Свободно %s"</string>
+    <string name="size_below">%1$s или меньше</string>
+    <string name="size_above">%1$s или больше</string>
+    <string name="size_between">от %1$s до %2$s</string>
+    <string name="Import">Импортировать</string>
+    <string name="import_complete">Импортирование завершено</string>
+    <string name="import_fail">Импортирование не удалось</string>
+    <string name="camera_connected">Камера подключена</string>
+    <string name="camera_disconnected">Камера отключена</string>
+    <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
+    <string name="widget_type_album">Выбрать альбом</string>
+    <string name="widget_type_shuffle">Перемешать все изображения</string>
+    <string name="widget_type_photo">Выбрать изображение</string>
+    <string name="widget_type">Выбрать изображения</string>
+    <string name="slideshow_dream_name">Слайд-шоу</string>
+    <string name="albums">Альбомы</string>
+    <string name="times">Время</string>
+    <string name="locations">Места</string>
+    <string name="people">Люди</string>
+    <string name="tags">Теги</string>
+    <string name="group_by">Группировать по</string>
+    <string name="settings">Настройки</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="folder_camera">Камера</string>
+    <string name="folder_download">Загрузить</string>
+    <string name="folder_edited_online_photos">Редактировать онлайн изображения</string>
+    <string name="folder_imported">Импортированные</string>
+    <string name="folder_screenshot">Скриншот</string>
+    <string name="help">Помощь</string>
+    <string name="help_url_gallery_main" />
+    <string name="no_external_storage_title">Нет накопителей</string>
+    <string name="no_external_storage">Нет доступных внешних накопителей</string>
+    <string name="switch_photo_filmstrip">Диафильм</string>
+    <string name="switch_photo_grid">Сетка</string>
+    <string name="switch_photo_fullscreen">Полноэкранный режим</string>
+    <string name="trimming">Обрезание видео</string>
+    <string name="muting">Приглушение</string>
+    <string name="please_wait">Подождите…</string>
+    <string name="save_into">Сохранение обрезанного видео в альбом:</string>
+    <string name="trim_too_short">Невозможно обрезать: выбранное видео слишком короткое</string>
+    <string name="mute_nosupport">Невозможно приглушить: видео не поддерживается</string>
+    <string name="pano_progress_text">Визуализация панорамы…</string>
+    <string name="camera_error_title">Ошибка камеры</string>
+    <string name="cannot_connect_camera">Невозможно подключиться к камере</string>
+    <string name="camera_disabled">Для безопасности камера была выключена</string>
+    <string name="camera_label">Камера</string>
+    <string name="wait">Терпение…</string>
+    <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
+    <string name="preparing_sd">Подготовка SD-карты…</string>
+    <string name="access_sd_fail">Нет доступа к SD-карте</string>
+    <string name="review_cancel">Отменить</string>
+    <string name="review_ok">Готово</string>
+    <string name="time_lapse_title">Запись в течение заданного времени</string>
+    <string name="pref_camera_id_title">Выбрать камеру</string>
+    <string name="pref_camera_id_entry_back">Тыловая камера</string>
+    <string name="pref_camera_id_entry_front">Фронтальная камера</string>
+    <string name="pref_camera_recordlocation_title">Место хранения</string>
+    <string name="setting_off">Выкл.</string>
+    <string name="setting_on">Вкл.</string>
+    <string name="pref_video_quality_title">Качество видео</string>
+    <string name="pref_video_quality_entry_high">Высокое</string>
+    <string name="pref_video_quality_entry_low">Низкое</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Время записи</string>
+    <string name="pref_camera_settings_category">Настройки камеры</string>
+    <string name="pref_camcorder_settings_category">Настройки видеозаписи</string>
+    <string name="pref_camera_picturesize_title">Размер фото</string>
+    <string name="pref_camera_picturesize_entry_8mp">8MP</string>
+    <string name="pref_camera_picturesize_entry_5mp">5MP</string>
+    <string name="pref_camera_picturesize_entry_3mp">3MP</string>
+    <string name="pref_camera_picturesize_entry_2mp">2MP</string>
+    <string name="pref_camera_picturesize_entry_1_3mp">1.3MP</string>
+    <string name="pref_camera_picturesize_entry_1mp">1MP</string>
+    <string name="pref_camera_picturesize_entry_vga">VGA</string>
+    <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
+    <string name="pref_camera_focusmode_title">Режим фокусировки</string>
+    <string name="pref_camera_focusmode_entry_auto">Авто</string>
+    <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
+    <string name="pref_camera_focusmode_entry_macro">Макро</string>
+    <string name="pref_camera_flashmode_title">Режим вспышки</string>
+    <string name="pref_camera_flashmode_entry_auto">Авто</string>
+    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
+    <string name="pref_camera_flashmode_entry_off">Выкл.</string>
+    <string name="pref_camera_whitebalance_title">Баланс белого</string>
+    <string name="pref_camera_whitebalance_entry_auto">Авто</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
+    <string name="pref_camera_whitebalance_entry_daylight">Дневной свет</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">Флуоресцент</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">Облачно</string>
+    <string name="pref_camera_scenemode_title">Режим съемки</string>
+    <string name="pref_camera_scenemode_entry_auto">Авто</string>
+    <string name="pref_camera_scenemode_entry_hdr">HDR</string>
+    <string name="pref_camera_scenemode_entry_action">Движение</string>
+    <string name="pref_camera_scenemode_entry_night">Ночь</string>
+    <string name="pref_camera_scenemode_entry_sunset">Закат</string>
+    <string name="pref_camera_scenemode_entry_party">Вечеринка</string>
+    <string name="not_selectable_in_scene_mode">Невозможно выбрать в режиме съемки</string>
+    <string name="pref_exposure_title">Экспозиция</string>
+    <string name="dialog_ok">OK</string>
+    <string name="spaceIsLow_content">На SD-карте заканчивается свободное место. Выберите запись более низкого качества или удалите несколько изображений или других файлов.</string>
+    <string name="video_reach_size_limit">Достигнуто ограничение размера</string>
+    <string name="pano_too_fast_prompt">Слишком быстро</string>
+    <string name="pano_dialog_prepare_preview">Подготовка панорамного снимка</string>
+    <string name="pano_dialog_panorama_failed">Невозможно сохранить панораму</string>
+    <string name="pano_dialog_title">Панорама</string>
+    <string name="pano_capture_indication">Съемка панорамы</string>
+    <string name="pano_dialog_waiting_previous">Ожидание предыдущей панорамы</string>
+    <string name="pano_review_saving_indication_str">Сохранение…</string>
+    <string name="pano_review_rendering">Визуализация панорамы</string>
+    <string name="tap_to_focus">Коснитесь экрана для фокусировки</string>
+    <string name="pref_video_effect_title">Эффекты</string>
+    <string name="effect_none">Без эффектов</string>
+    <string name="effect_goofy_face_squeeze">Сжатие</string>
+    <string name="effect_goofy_face_big_eyes">Большие глаза</string>
+    <string name="effect_goofy_face_big_mouth">Большой рот</string>
+    <string name="effect_goofy_face_small_mouth">Маленький рот</string>
+    <string name="effect_goofy_face_big_nose">Большой нос</string>
+    <string name="effect_goofy_face_small_eyes">Маленькие глаза</string>
+    <string name="effect_backdropper_space">В воздухе</string>
+    <string name="effect_backdropper_sunset">Закат</string>
+    <string name="effect_backdropper_gallery">Ваше видео</string>
+    <string name="bg_replacement_message">"Уберите ваше устройство. \u000d
+Сверните картинку на время."</string>
+    <string name="video_snapshot_hint">Коснитесь для создания фото во время съемки видео</string>
+    <string name="disable_video_snapshot_hint">Фотографирование при записи видео невозможно, если включены эффекты</string>
+    <string name="clear_effects">Убрать эффекты</string>
+    <string name="effect_silly_faces">Рожицы</string>
+    <string name="effect_background">Фон</string>
+    <string name="accessibility_shutter_button">Кнопка спуска затвора</string>
+    <string name="accessibility_menu_button">Кнопка меню</string>
+    <string name="accessibility_review_thumbnail">Недавние фото</string>
+    <string name="accessibility_camera_picker">Переключатель фронтальной и задней камер</string>
+    <string name="accessibility_mode_picker">Выбор камеры, видео, или панорамного снимка</string>
+    <string name="accessibility_second_level_indicators">Другие настройки</string>
+    <string name="accessibility_back_to_first_level">Выбрать настройки</string>
+    <string name="accessibility_zoom_control">Масштабирование</string>
+    <string name="accessibility_decrement">Уменьшить на %1$s</string>
+    <string name="accessibility_increment">Увеличить на %1$s</string>
+    <string name="accessibility_switch_to_camera">Переключить на фото</string>
+    <string name="accessibility_switch_to_video">Переключить на видео</string>
+    <string name="accessibility_switch_to_panorama">Переключить на панорамный снимок</string>
+    <string name="accessibility_switch_to_new_panorama">Переключить на новый панорамный снимок</string>
+    <string name="accessibility_review_cancel">Отменить просмотр</string>
+    <string name="accessibility_review_ok">Просмотр готов</string>
+    <string name="accessibility_review_retake">Посмотреть повторный кадр</string>
+    <string name="capital_on">ВКЛ</string>
+    <string name="capital_off">ВЫКЛ</string>
+    <string name="pref_video_time_lapse_frame_interval_off">Выкл</string>
+    <string name="pref_video_time_lapse_frame_interval_500">0.5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_1000">1 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_1500">1.5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_2000">2 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_2500">2.5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_3000">3 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_4000">4 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_5000">5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_6000">6 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_10000">10 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_12000">12 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_15000">15 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_24000">24 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_30000">0.5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_60000">1 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_90000">1.5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_120000">2 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_150000">2.5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_180000">3 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_240000">4 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_300000">5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_360000">6 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_600000">10 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_720000">12 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_900000">15 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_1440000">24 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_1800000">0.5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_3600000">1 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_5400000">1.5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_7200000">2 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_9000000">2.5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_10800000">3 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_14400000">4 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_18000000">5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_21600000">6 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_36000000">10 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_43200000">12 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_54000000">15 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_86400000">24 час.</string>
+    <string name="time_lapse_seconds">сек.</string>
+    <string name="time_lapse_minutes">мин.</string>
+    <string name="time_lapse_hours">час.</string>
+    <string name="time_lapse_interval_set">Готово</string>
+    <string name="set_time_interval">Установить временной интервал</string>
+    <string name="set_time_interval_help">"Настройка для установки времени отключена. Включите ее, чтобы установить временной интервал. "</string>
+    <string name="remember_location_title">Запомнить место съемки?</string>
+    <string name="remember_location_prompt">"Отмечать местонахождение геотегом на фото и видео. \u000d
+\u000d
+Если Вы согласитесь, другие приложения могут получить доступ к этой информации"</string>
+    <string name="remember_location_no">Нет</string>
+    <string name="remember_location_yes">Да</string>
+    <string name="video_camera_label">Видеозапись</string>
+    <string name="setting_off_value">off</string>
+    <string name="setting_on_value">on</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="accessibility_switch">%1$s переключить</string>
+    <string name="empty">" "</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+    <string name="editor_grad_saturation">Насыщенность</string>
+    <item type="string" name="APKTOOL_DUMMY_00ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0185">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0186">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0188">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0189">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_019a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_019b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_019c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_020d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0212">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0216">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0217">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0218">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0219">false</item>
+    <item type="string" name="APKTOOL_DUMMY_024a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_024b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_024c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0251">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0252">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0253">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0254">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0255">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0256">false</item>
+</resources>

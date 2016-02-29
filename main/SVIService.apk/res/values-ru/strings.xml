@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVI параметры</string>
+    <string name="svi_settings_title">Параметры отображения SVI</string>
+    <string name="svi_enable_title">Включить отображение SVI</string>
+    <string name="svi_enable_summary_on">Расширить просмотр на основе условий окружающей среды</string>
+    <string name="svi_enable_summary_off">Впечатления от просмотра не будут расти, для внешних условий</string>
+    <string name="svi_info_default">Неизвестно</string>
+    <string name="svi_version_title">Версия SVI</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

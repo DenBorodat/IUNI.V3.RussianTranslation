@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s диалогов будет удалено</item>
+        <item quantity="one">Один диалог будет удален</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результатов для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s конт.</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">отправка %d отчетов о прочтении</item>
+        <item quantity="one">отправка %d отчета о прочтении</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Выбрано %d</item>
+        <item quantity="one">Выбрано %d</item>
+    </plurals>
+</resources>

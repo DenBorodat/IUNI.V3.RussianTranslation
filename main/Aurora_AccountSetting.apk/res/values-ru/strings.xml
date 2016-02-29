@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки аккаунта Aurora</string>
+    <string name="action_settings">Настройки</string>
+    <string name="account_settings">Аккаунты</string>
+    <string name="aurora_account_category_title">Аккаунты</string>
+    <string name="aurora_account_category_security_title">Безопасность</string>
+    <string name="add_account_label">Добавить аккаунт</string>
+    <string name="header_add_an_account">Добавить аккаунт</string>
+    <string name="remove_account_label">Удалить аккаунт</string>
+    <string name="sync_disabled">Синхронизация отключена</string>
+    <string name="sync_error">Ошибка синхронизации</string>
+    <string name="sync_in_progress">"Коснитесь для синхронизации\u000d
+ Синхронизация…"</string>
+    <string name="account_sync_settings_title">Синхронизация</string>
+    <string name="accessibility_sync_enabled">Синхронизация включена</string>
+    <string name="accessibility_sync_disabled">Синхронизация отключена</string>
+    <string name="accessibility_sync_error">Ошибка синхронизации</string>
+    <string name="sync_is_failing">При синхронизации возникли проблемы, скоро будет исправлено</string>
+    <string name="help_url_accounts" />
+    <string name="sync_item_title">%s</string>
+    <string name="lock_settings_picker_title">Выбор режима экрана блокировки</string>
+    <string name="sync_enabled">Синхронизация включена</string>
+    <string name="really_remove_account_title">Удалить аккаунт?</string>
+    <string name="really_remove_account_message">Удаление аккаунта приведет к удалению всех сообщений, контактов и др. данных, связанных с аккаунтом.</string>
+    <string name="remove_account_failed">"Некоторые приложения используют этот аккаунт. При сбросе настроек телефона до заводского состояния (при этом удаляются все личные данные), вы можете удалить этот аккаунт. \u000d
+ Это можно сделать в Меню \"Настройки системы\" > \"Дополнительно\" > \"Восстановление и сброс\""</string>
+    <string name="cant_sync_dialog_message">В настоящее время синхронизация аккаунта отключена. Чтобы изменить этот параметр, включите фоновую передачу данных и автосинхронизацию.</string>
+    <string name="cant_sync_dialog_title">Невозможно синхронизировать</string>
+    <string name="finish_button_label">Завершить</string>
+    <string name="sync_menu_sync_now">Синхронизировать</string>
+    <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
+    <string name="last_synced">"Синхронизировать сейчас\u000d
+ Последняя синхронизация: %1$s"</string>
+    <string name="auto_sync_start">Автосинхронизация включена</string>
+    <string name="sync_failed">Сбой синхронизации</string>
+    <string name="sync_active">Идет синхронизация</string>
+    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизации ( %1$s)</string>
+    <string name="sync_automatically">Данные приложения автоматически синхронизируются</string>
+    <string name="global_change_warning">Этот параметр влияет на всех пользователей этого телефона</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_quick_texts">
+        <item>Где ты?</item>
+        <item>Чем занят?</item>
+        <item>Перезвони, пожалуйста</item>
+        <item>Извини, у меня встреча</item>
+        <item>Я перезвоню</item>
+        <item>Не волнуйся, я в порядке</item>
+        <item>Еду домой</item>
+        <item>Скоро буду</item>
+        <item>Приходи или потом будешь жалеть!</item>
+    </string-array>
+    <string-array name="default_quick_texts_Micromax">
+        <item>Как дела?</item>
+        <item>Большой привет!</item>
+        <item>Давно не виделись</item>
+        <item>Как прошел день?</item>
+        <item>Спасибо!</item>
+        <item>Прости!</item>
+        <item>Позвони мне сейчас</item>
+        <item>Я скоро вернусь</item>
+        <item>Давай пообедаем?</item>
+        <item>Перезвоню позже</item>
+    </string-array>
+</resources>

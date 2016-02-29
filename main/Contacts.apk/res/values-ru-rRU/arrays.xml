@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_entries_list_photo_options">
+        <item>По умолчанию</item>
+        <item>Скрыть</item>
+    </string-array>
+    <string-array name="gn_entries_list_photo_options_v2">
+        <item>Полноцветные</item>
+        <item>По умолчанию</item>
+        <item>Скрыть</item>
+    </string-array>
+    <string-array name="gn_entries_listitem_onclick_options">
+        <item>Показать подробности</item>
+        <item>Отправить напрямую</item>
+    </string-array>
+    <string-array name="gn_call_log_type">
+        <item>Все вызовы</item>
+        <item>Исходящие вызовы</item>
+        <item>Отвеченные вызовы</item>
+        <item>Пропущенные вызовы</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>Нет вызовов</item>
+        <item>Нет исходящих вызовов</item>
+        <item>Нет отвеченных вызовов</item>
+        <item>Нет пропущенных вызовов</item>
+    </string-array>
+    <string-array name="gn_alphbet_index">
+        <item>*</item>
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_fly">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Комментарий</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0000">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0001">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0002">false</item>
+    <item type="array" name="APKTOOL_DUMMY_000f">false</item>
+</resources>

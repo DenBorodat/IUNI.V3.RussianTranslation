@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Перенести %1$d бесед</item>
+        <item quantity="one">Перенести беседу</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Черновики</item>
+        <item quantity="one">Черновик</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить эти %1$d беседы?</item>
+        <item quantity="one">Удалить эту беседу?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Отправить в архив эти %1$d бесед?</item>
+        <item quantity="one">Отправить в архив эту беседу?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Удалить черновики из этих %1$d бесед?</item>
+        <item quantity="one">Удалить черновики из этой беседы?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Убираю из избранного %1$d бесед.</item>
+        <item quantity="one">Убираю из избранного %1$d беседу.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> скрыто.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> скрыто.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> помечено как спам.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> помечено как спам.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> убрано из спама.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> убрано из спама.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> помечено как важное.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> помечено как неважное.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> помечено как фишинг.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> помечено как фишинг.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> убрано в архив.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> убрано в архив.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> удалено.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> удалено.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Изменённые папки.</item>
+        <item quantity="one">Изменённая папка.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d новое сообщение. Показать.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d старых сообщений</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d непрочитано</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d сообщений будет безвозвратно удалено.</item>
+        <item quantity="one">%1$d сообщение будет безвозвратно удалено.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Переместить сообщения</item>
+        <item quantity="one">Переместить сообщения</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d Б</item>
+        <item quantity="one">%d Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d КБ</item>
+        <item quantity="one">%d КБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d МБ</item>
+        <item quantity="one">%d МБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d ГБ</item>
+        <item quantity="one">%d ГБ</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_0012">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0018">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0019">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_001f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0020">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0021">false</item>
+</resources>

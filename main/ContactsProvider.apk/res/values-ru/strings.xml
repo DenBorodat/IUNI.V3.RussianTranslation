@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Приложения ядра Android</string>
+    <string name="app_label">Хранилище контактов</string>
+    <string name="provider_label">Контакты</string>
+    <string name="upgrade_msg">Обновление базы данных контактов…</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Для обновления контактов нужно больше памяти</string>
+    <string name="upgrade_out_of_memory_notification_title">Недостаточно места для обновления контактов</string>
+    <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
+    <string name="default_directory">Контакты</string>
+    <string name="local_invisible_directory">Другое</string>
+    <string name="read_write_all_voicemail_label">Доступ к голосовым сообщениям</string>
+    <string name="read_write_all_voicemail_description">Позволяет приложению хранить и открывать все голосовые сообщения, к которым устройство имеет доступ</string>
+    <string name="voicemail_from_column">"Голосовое сообщение от "</string>
+    <string name="unknown">Неизвестный</string>
+    <string name="common_name_prefixes">Приставки к имени</string>
+    <string name="common_name_suffixes">Суффиксы в имени</string>
+    <string name="common_last_name_prefixes">Приставки к фамилии</string>
+    <string name="common_name_conjunctions">Объединения имен</string>
+    <string name="create_contact_using">Создать контакт с помощью %s</string>
+    <string name="dial_number_using">Набрать номер с помощью %s</string>
+    <string name="aurora_group_family">Семья</string>
+    <string name="aurora_group_friend">Друзья</string>
+    <string name="aurora_group_classmate">Одноклассники</string>
+    <string name="aurora_group_colleague">Коллеги</string>
+    <string name="aurora_mark_1">Надоедливый звонок</string>
+    <string name="aurora_mark_2">Продавец</string>
+    <string name="aurora_mark_3">Агент</string>
+    <string name="aurora_mark_4">Курьер</string>
+    <string name="aurora_mark_5">Мошенник</string>
+    <string name="aurora_call_record_history_path">Записи разговоров</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_scanning">Поиск…</string>
+    <string name="search_networks">Поиск сетей</string>
+    <string name="no_network">Сети не найдены</string>
+    <string name="select_automatically">Автовыбор</string>
+    <string name="sum_select_automatically">Автовыбор сети</string>
+    <string name="available_networks">Доступные сети</string>
+    <string name="register_on_network">Регистрация в %1$s…</string>
+    <string name="register_automatically">Авторегистрация…</string>
+    <string name="network_query_error">Ошибка поиска сетей</string>
+    <string name="not_allowed">Ваша SIM-карта не позволяет подключение к этой сети</string>
+    <string name="connect_later">Не удается подключиться к сети. Попробуйте позже.</string>
+    <string name="quit_mention">Внимание!</string>
+    <string name="dialog_message">Выход остановит поиск. Хотите выйти?</string>
+    <string name="timeout_message">Не найдено доступных сетей</string>
+    <string name="registration_done">Успешная регистрация в сети</string>
+    <string name="China_Mobile">China Mobile</string>
+    <string name="China_Unicom">China Unicom</string>
+    <string name="China_Telecom">China Telecom</string>
+    <string name="roamingTextSearching">Поиск услуг</string>
+    <string name="network_forbidden">(Запрещено)</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

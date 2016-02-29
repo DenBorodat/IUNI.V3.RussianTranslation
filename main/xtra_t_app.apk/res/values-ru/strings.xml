@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">Ускоренное местоположение</string>
+    <string name="IZat_SUB_TITLE_TEXT">"Использовать  Qualcomm&lt;sup>&amp;reg;&lt;/sup> IZat&lt;sup>TM&lt;/sup> аппаратное ускорение местоположения"</string>
+    <string name="POPUP_BOX_TITLE">Разрешить местоположение</string>
+    <string name="POPUP_BOX_TEXT">Включенное аппаратное ускорение позволяет IZat собирать данные о местоположении. IZat хранит некоторые данные на вашем устройстве и может работать даже при отсутствии запущенных приложений.</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\">Условия использования и политика конфиденциальности&lt;/a></string>
+    <string name="IZAT_AGREE">Принять</string>
+    <string name="IZAT_DISAGREE">Отказаться</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

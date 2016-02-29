@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d треков</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d из %1$d треков</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">Удален 1 трек</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Было добавлено %d треков в плейлист</item>
+        <item quantity="one">Был добавлен 1 трек в плейлист</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist2">
+        <item quantity="other">%1$d треков добавлено в плейлист %2$s</item>
+        <item quantity="one">1 трек добавлен в плейлист %2$s</item>
+    </plurals>
+</resources>

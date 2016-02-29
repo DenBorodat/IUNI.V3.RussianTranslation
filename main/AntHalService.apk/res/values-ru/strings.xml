@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервис ANT HAL</string>
+    <string name="permdesc_antradio">Позволяет приложению напрямую конфигурировать ANT радио. Непроверенные приложения могут помешать сервису ANT радио предоставить функционал ANT другим приложениям.</string>
+    <string name="permlab_antradio">Использовать ANT устройства</string>
+    <string name="permdesc_ant">Позволяет приложению связываться с ANT устройствами через прокси-сервер. Непроверенные приложения могут получать информацию или передавать ее другим ANT устройствам без вашего ведома.</string>
+    <string name="permlab_ant">Использовать интерфейс ANT радио</string>
+    <string name="permdesc_antAdmin">Позволяет приложению напрямую конфигурировать ANT радио через прокси-сервер. Непроверенные приложения могут помешать другим ANT приложениям соединяться с ANT устройствами.</string>
+    <string name="permlab_antAdmin">Контролировать конфигурацию ANT радио</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Живые обои</string>
+    <string name="live_wallpaper_picker_title">Выбрать Живые обои</string>
+    <string name="live_wallpaper_picker_label">Живые обои</string>
+    <string name="live_wallpaper_preview_title">Превью</string>
+    <string name="configure_wallpaper">Настройки</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="live_wallpaper_empty">Нет живых обоев</string>
+    <string name="set_live_wallpaper">Установить живые обои</string>
+    <string name="wallpaper_title_and_author">%1$s, автор: %2$s</string>
+    <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+    <string name="wallpaper_cancel">Отмена</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

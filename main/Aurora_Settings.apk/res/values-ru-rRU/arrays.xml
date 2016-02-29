@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>через 15 сек.</item>
+        <item>через 30 сек.</item>
+        <item>через 1 мин.</item>
+        <item>через 2 мин.</item>
+        <item>через 5 мин.</item>
+        <item>через 10 мин.</item>
+        <item>через 30 мин.</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>через 15 сек.</item>
+        <item>через 30 сек.</item>
+        <item>через 1 мин.</item>
+        <item>через 2 мин.</item>
+        <item>через 5 мин.</item>
+        <item>через 10 мин.</item>
+        <item>через 30 мин.</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Сразу</item>
+        <item>через 5 сек.</item>
+        <item>через 15 сек.</item>
+        <item>через 30 сек.</item>
+        <item>через 1 мин.</item>
+        <item>через 2 мин.</item>
+        <item>через 5 мин.</item>
+        <item>через 10 мин.</item>
+        <item>через 30 мин.</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень слабо</item>
+        <item>Слабо</item>
+        <item>Нормально</item>
+        <item>Высоко</item>
+        <item>Очень высоко</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Сон</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать слабого сигнала</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Аутентификация в сети %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Сон</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать слабого сигнала</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Открытая</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Кнопка подключения</item>
+        <item>PIN-код с подключаемого устройства</item>
+        <item>PIN-код с этого устройства</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Подключение…</item>
+        <item>Сбой</item>
+        <item>Коснуться для подключения</item>
+        <item>Вне диапазона</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>1 ч.</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Сильный</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда (увеличивает расход трафика)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2.4 ГГц</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Количество запусков</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>Динамический (DHCP)</item>
+        <item>Статический</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Отключено</item>
+        <item>Оповещение</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Китайский (упрощенный)</item>
+        <item>Китайский (традиционный)</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не указано</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Память устройства</item>
+        <item>SD-карта</item>
+        <item>На выбор системы</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Короткий</item>
+        <item>Средний</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только для DRM содержимого</item>
+        <item>Проверять всегда</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для DRM содержимого</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Отключено</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Отключено</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi и 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Стек вызовов на glGetError</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Максимум 1 процесс</item>
+        <item>Максимум 2 процесса</item>
+        <item>Максимум 3 процесса</item>
+        <item>Максимум 4 процесса</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>VPN-соединение по протоколу PPTP</item>
+        <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
+        <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
+        <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключена</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключена</item>
+        <item>Время ожидания истекло</item>
+        <item>Сбой</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Высший разум</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Спрашивать</item>
+        <item>Не разрешать</item>
+        <item>Разрешать всегда</item>
+    </string-array>
+    <string-array name="aurora_wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="aurora_wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="aurora_screen_timeout_entries">
+        <item>через 15 сек.</item>
+        <item>через 30 сек.</item>
+        <item>через 1 мин.</item>
+        <item>через 2 мин.</item>
+        <item>через 5 мин.</item>
+        <item>через 10 мин.</item>
+        <item>через 30 мин.</item>
+    </string-array>
+    <string-array name="aurora_font_size_entries">
+        <item>мелкий</item>
+        <item>по умолчанию</item>
+        <item>средний</item>
+        <item>крупный</item>
+    </string-array>
+    <string-array name="gn_timeout_close_torch_options">
+        <item>Не выключать</item>
+        <item>через 1 мин.</item>
+        <item>через 2 мин.</item>
+        <item>через 3 мин.</item>
+        <item>через 4 мин.</item>
+    </string-array>
+    <string-array name="gn_entries_buttonlight">
+        <item>2 сек.</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>От внешнего освещения</item>
+    </string-array>
+    <string-array name="gn_entries_font_size">
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+    </string-array>
+    <string-array name="gn_screen_size_entries">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="usb_conn_title_entries">
+        <item>Медиа устройство (MTP)</item>
+        <item>Камера (PTP)</item>
+    </string-array>
+    <string-array name="usb_conn_summary_entries">
+        <item>Передача и хранение данных</item>
+        <item>Копирование снимков с помощью ПО</item>
+    </string-array>
+    <string-array name="usb_conn_title_compa_entries">
+        <item>Медиа устройство (MTP)</item>
+        <item>Камера (PTP)</item>
+    </string-array>
+    <string-array name="usb_conn_summary_compa_entries">
+        <item>Передача и хранение данных</item>
+        <item>Копирование снимков с помощью ПО</item>
+    </string-array>
+    <string-array name="alarm_set_airplane">
+        <item>Авиарежим задействуется ранее 1 минуты.</item>
+        <item>Авиарежим задействуется через %1$s с этого момента.</item>
+        <item>Авиарежим задействуется через %2$s с этого момента.</item>
+        <item>Авиарежим задействуется через %1$s и %2$s с этого момента.</item>
+        <item>Авиарежим задействуется через %3$s с этого момента.</item>
+        <item>Авиарежим задействуется через %1$s и %3$s с этого момента.</item>
+        <item>Авиарежим задействуется через %2$s и %3$s с этого момента.</item>
+        <item>Авиарежим задействуется через %1$s, %2$s, and %3$s с этого момента.</item>
+        <item>Авиарежим отключится ранее 1 минуты.</item>
+        <item>Авиарежим отключится через %1$s с этого момента.</item>
+        <item>Авиарежим отключится через %2$s с этого момента.</item>
+        <item>Авиарежим отключится через %1$s и %2$s с этого момента.</item>
+        <item>Авиарежим отключится через %3$s с этого момента.</item>
+        <item>Авиарежим отключится через %1$s и %3$s с этого момента.</item>
+        <item>Авиарежим отключится через %2$s и %3$s с этого момента.</item>
+        <item>Авиарежим отключится через %1$s, %2$s, и %3$s с этого момента.</item>
+    </string-array>
+</resources>

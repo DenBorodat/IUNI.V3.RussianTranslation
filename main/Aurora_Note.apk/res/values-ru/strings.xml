@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="quick_record_entry_name">Диктофон</string>
+    <string name="note_reminder">Напоминание заметки</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="image_not_found">Изображение отсутствует</string>
+    <string name="click_again_to_exit">Нажмите еще раз для выхода из приложения</string>
+    <string name="toast_no_network">Нет сети. Открыть настройки сети.</string>
+    <string name="toast_network_error">Ошибка сети. Повторите попытку очистки позже.</string>
+    <string name="toast_no_new_version">Это последняя версия</string>
+    <string name="toast_weibo_too_long">Содержание более 140 символов</string>
+    <string name="crop__saving">Сохранение изображения…</string>
+    <string name="crop__wait">Пожалуйста, ждите…</string>
+    <string name="crop__pick_error">Исходное изображение недоступно</string>
+    <string name="note_manager">Управление</string>
+    <string name="note_backup">Резервная копия</string>
+    <string name="note_backup_none">Нет данных для резервного копирования</string>
+    <string name="note_backup_to">Резервное копирование на</string>
+    <string name="note_backup_doing">Резервное копирование. Пожалуйста, ждите…</string>
+    <string name="note_backup_success">Успешное резервное копирование в память телефона</string>
+    <string name="note_backup_failed">Неудачное резервное копирование. Попробуйте еще раз.</string>
+    <string name="note_restore">Восстановление</string>
+    <string name="note_restore_none">Нет данных для восстановления</string>
+    <string name="note_restore_choose">Выберать файлы для восстановления</string>
+    <string name="note_restore_doing">Восстановление. Пожалуйста, ждите…</string>
+    <string name="note_restore_success">Успешное восстановление</string>
+    <string name="note_restore_failed">Неудачное восстановление. Попробуйте еще раз.</string>
+    <string name="note_about">О заметках IUNI</string>
+    <string name="note_share">Отправить другу</string>
+    <string name="note_share_weibo">Поделиться в Twitter</string>
+    <string name="note_share_wx_timeline">Поделиться в кругу друзей</string>
+    <string name="note_share_wx_session">Микро письмо, чтобы поделиться с другом</string>
+    <string name="note_share_weibo_content">Я использую Заметки IUNI - самый элегантный инструмент для записей. Удобный способ записи с красивым графическим интерфейсом. Вы так же можете поделиться с друзьями. Нажмите на ссылку, чтобы скачать http://www.iunios.com/memo.shtml</string>
+    <string name="note_share_wx_title">Вам, возможно, потребуются такие заметки</string>
+    <string name="note_share_wx_summary">Достаточно сложная и разнообразная запись, красивое графическое оформление. Вы так же можете поделиться с друзьями.</string>
+    <string name="note_share_to">"Поделиться с: "</string>
+    <string name="note_share_send">Отправить</string>
+    <string name="note_check_update">Проверить наличие обновлений</string>
+    <string name="note_know_more">Понять IUNI</string>
+    <string name="note_copyright_notice">IUNI Inc. Все права защищены.</string>
+    <string name="note_copyright_notice_2">Copyright © 2013–2015 IUNI. Все права защищены</string>
+    <string name="note_check_doing">Проверка обновлений. Пожалуйста, ждите…</string>
+    <string name="note_hava_new_version">Проверить новую версию</string>
+    <string name="note_express">Любимой</string>
+    <string name="note_auto_indent">Отступ первой строки</string>
+    <string name="note_change_paper">Выбор бумаги</string>
+    <string name="dialog_update_title">Обновления приложений</string>
+    <string name="dialog_update_ok">Обновить сейчас</string>
+    <string name="dialog_recommend_title">Рекомендация</string>
+    <string name="dialog_recommend_message">"Заметки IUNI так же хороши, не так ли?\u000d
+IUNI OS и другие приложения ждут вас, для испытания стиля IUNI."</string>
+    <string name="dialog_recommend_choice_now">Смотреть сейчас</string>
+    <string name="dialog_recommend_choice_latter">Смотреть позже</string>
+    <string name="dialog_recommend_choice_nolonger">Решительно не смотреть</string>
+    <string name="preset_chunjie_content">"Друзьям и семье:\u000d
+Годы могут стереть память,\u000d
+Но они не могут заставить исчезнуть смех.\u000d
+Я желаю Вам счастливого Нового Года! Счастья Вам!\u000d
+(Напишите любимым что хотите сказать и нажмите кнопку, чтобы поделиться)\u000d
+\u000d
+                                                                       XXX"</string>
+    <string name="preset_qingrenjie_content">"Любимой:\u000d
+Твоим глазам я оды посвящаю,\u000d
+Ведь в них тону буквально каждый миг…\u000d
+Твоим глазам я все всегда прощаю,\u000d
+Ведь нет на свете мне дороже них…\u000d
+\u000d
+В твоих глазах все запахи на свете!\u000d
+В них краски всех оттенков и цветов…\u000d
+В них нежность всей огромнейшей планеты…\u000d
+В них очень много самых важных слов…\u000d
+\u000d
+И, если смотришь на меня ты снова,\u000d
+Порой немею, от твоей красы…\u000d
+Твои глаза и стоят дорогого,\u000d
+Они ведь чище капелек росы…\u000d
+(Напишите любимой что хотите сказать и нажмите кнопку, чтобы поделиться)\u000d
+\u000d
+                                                                       XXX"</string>
+    <string name="note_first">"Добро пожаловать в Заметки от IUNI OS!\u000d
+Знайте!\u000d
+Каждый текст, который вы написали, заставяет нас стремиться к совершенству.\u000d
+Каждое фото, аудио и видео заметка, которую вы записали, будет самой замечательной из Заметок IUNI OS.\u000d
+Возможно мы не сможем остановить время для вас,\u000d
+но мы надеемся запечатлеть каждый ценный момент."</string>
+    <string name="note_second">"                  ——команда IUNI OS"</string>
+    <string name="note_third">"Подсказка: \u000d
+Вы можете просматривать вложения в файловом менеджере.\u000d
+\u000d
+Путь сохранения: Память/sdcard/note/"</string>
+    <string name="note_first_2">"Добро пожаловать в Заметки!\u000d
+Знайте!\u000d
+Каждый текст, который вы написали, заставяет нас стремиться к совершенству.\u000d
+Каждое фото, аудио и видео заметка, которую вы записали, будет самой замечательной из Заметок.\u000d
+Возможно мы не сможем остановить время для вас,\u000d
+но мы надеемся запечатлеть каждый ценный момент."</string>
+    <string name="label_meetting">Работа</string>
+    <string name="label_life">Жизнь</string>
+    <string name="label_idea">Идея</string>
+    <string name="note_label">Тег</string>
+    <string name="note_add_label">Новый тег</string>
+    <string name="note_add_label_notice">Тег с таким же именем уже существует. Добавьте другой.</string>
+    <string name="note_choose_label_notice">Можете выбрать до двух тегов</string>
+    <string name="note_delete_label_notice">Удалить этот тег?</string>
+    <string name="note_modify_label_notice">Тег с таким же именем уже существует. Повторите попытку.</string>
+    <string name="dialog_delete_label_title">Удалить тег</string>
+    <string name="dialog_delete_label_message">Удаление тега не приведет к удалению заметки. Продолжить?</string>
+    <string name="note_title">Заметка</string>
+    <string name="note_searchview_hint_text">Поиск заметки</string>
+    <string name="no_notes_hint">Нет заметок</string>
+    <string name="desc_having_sound">Содержит аудиофайл</string>
+    <string name="desc_image_border">Фотография</string>
+    <string name="desc_image_content">Изображение</string>
+    <string name="desc_video_play_icon">Значок воспроизведения</string>
+    <string name="desc_video_content">Видеоконтент</string>
+    <string name="title_num_of_images">[%s изображений]</string>
+    <string name="title_num_of_videos">[%s видео]</string>
+    <string name="title_num_of_sounds">[%s аудиофайлов]</string>
+    <string name="no_match_note">Нет заметки, соответствующих критериям</string>
+    <string name="dialog_delete_note_title">Удалить</string>
+    <string name="dialog_delete_note_message">Удалить эту заметку?</string>
+    <string name="menu_tab_edit">Редактировать Тег</string>
+    <string name="menu_tab_delete">Удалить тег</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="note_information">Детали заметки</string>
+    <string name="new_note_pic_num">Возможно вставить до 10 изображений</string>
+    <string name="new_note_video_num">Возможно вставить до 10 видео</string>
+    <string name="new_note_sound_num">Возможно вставить до 10 аудиофайлов</string>
+    <string name="new_note_attachment_count_limit">Слишком много вложений</string>
+    <string name="dialog_delete_image_title">Удаление</string>
+    <string name="dialog_delete_image_message">Удалить это изображение?</string>
+    <string name="dialog_delete_audio_title">Удаление</string>
+    <string name="dialog_delete_audio_message">Удалить этот аудиофайл?</string>
+    <string name="dialog_delete_video_title">Удаление</string>
+    <string name="dialog_delete_video_message">Удалить это видео?</string>
+    <string name="new_note_text_limit">Превышено предельное количество слов</string>
+    <string name="new_note_on_loading">Загрузка…</string>
+    <string name="new_note_gen_picture">Создание изображения. Пожалуйста, ждите…</string>
+    <string name="new_note_add_reminder">Добавить напоминание</string>
+    <string name="new_note_add_label">Добавить тег</string>
+    <string name="new_note_gen_pic_error_content_too_large">Слишком много контента. Не удалось создать изображение.</string>
+    <string name="new_note_gen_pic_error_unknow">Не удалось создать изображение</string>
+    <string name="first_use_quick_record_tip_1">Быстрая запись будет сохранена в Заметках, вы можете добавить описание</string>
+    <string name="first_use_quick_record_tip_2">Если вам необходимо создать больше записей, нажмите кнопку записи ниже</string>
+    <string name="first_use_quick_record_tip_3">Пожалуйста, откройте необходимую заметку, если хотите добавить запись позже</string>
+    <string name="note_gen_picture">Создание изображения</string>
+    <string name="share_title">Поделиться</string>
+    <string name="save_to_gallery_success">Изображение успешно сохранено в альбом</string>
+    <string name="save_to_gallery_failed">Не удалось сохранить изображение в альбоме</string>
+    <string name="sdcard_is_not_available">SD-карта недоступна</string>
+    <string name="load_picture_error_io">Не удалось загрузить изображение</string>
+    <string name="load_picture_error_network">Не удается загрузить из-за проблем с сетью</string>
+    <string name="load_picture_error_decoding">Изображения не могут быть отображены</string>
+    <string name="load_picture_error_out_of_memory">Изображения слишком велики для отображения</string>
+    <string name="load_picture_error_unknow">Неизвестная ошибка</string>
+    <string name="play_error">Ошибка воспроизведения</string>
+    <string name="play_error_file_not_exist">Файла не существует</string>
+    <string name="play_error_parse_file_failed">Ошиба открытия файла</string>
+    <string name="play_error_invalid_record_file">Запись с ошибкой</string>
+    <string name="play_file_name_label">Проигрывается:</string>
+    <string name="play_total_time_label">Время:</string>
+    <string name="cancel_record_title">Выход</string>
+    <string name="cancel_record_msg">Запись не будет сохранена, действительно выйти?</string>
+    <string name="record_notification_title">Запись</string>
+    <string name="record_notification_content">Нажмите, чтобы вернуться к диктофону</string>
+    <string name="delete_confirm_title">Удалить напоминание</string>
+    <string name="delete_confirm_message">Удалить напоминание заметки?</string>
+    <string name="delete_confirm_ok_btn">ОК</string>
+    <string name="delete_confirm_cancel_btn">Отмена</string>
+    <string name="share_sina_weibo_title">Поделиться в Sina Weibo</string>
+    <string name="share_sina_weibo_right_menu_item">Отправить</string>
+    <string name="share_sina_weibo_menu_unbind">Удалить аккаунт(%1$s)</string>
+    <string name="share_sina_weibo_hint">Введите текст</string>
+    <string name="share_sina_weibo_sending">Публикация…</string>
+    <string name="share_sina_weibo_unbind_success">Отмена привязки аккаунта</string>
+    <string name="share_sina_weibo_unbind_error">Отменить привязку аккаунта не удалось, попробуйте еще раз</string>
+    <string name="share_sina_weibo_authorize_invalid_token">Неудачная авторизация пользователя, попробуйте еще раз</string>
+    <string name="share_sina_weibo_authorize_cancel">Авторизация отменена</string>
+    <string name="share_sina_weibo_no_network">Включите сетевое подключение</string>
+    <string name="share_sina_weibo_authorize_expire">Срок лицензии истек, пожалуйста, повторите авторизацию</string>
+    <string name="share_sina_weibo_send_success">Отправлено</string>
+    <string name="share_sina_weibo_send_ongoing">Публикация…</string>
+    <string name="share_sina_weibo_send_failed">Ошибка публикации, повторите попытку</string>
+    <string name="share_sina_weibo_default_content">Поделиться изображением</string>
+    <string name="share_sina_weibo_is_sending">Загрузка предыдущих постов, пожалуйста, подождите…</string>
+    <string name="share_sina_weibo_get_user_info">Получение сведений о пользователях…</string>
+    <string name="share_sina_weibo_get_user_info_failed">Не удалось получить данные пользователя</string>
+    <string name="share_sina_weibo_unbind_ongoing">Отмена привязки аккаунта, пожалуйста, подождите…</string>
+    <string name="share_sina_weibo_image_too_large">Размер изображения слишком велик для публикации</string>
+    <string name="errcode_success">Отправка успешна</string>
+    <string name="errcode_cancel">Отмена отправки</string>
+    <string name="errcode_deny">Отправка отклонена</string>
+    <string name="errcode_unknown">Ошибка отправки</string>
+    <string name="memory_is_not_enough">Размер изображения слишком велик, попробуйте еще раз</string>
+    <string name="decode_bitmap_error">Не удалось загрузить изображение</string>
+    <string name="prepare_record_error">Ошибка подготовки записи, попробуйте еще раз</string>
+    <string name="sd_space_not_enough">Недостаточно места на SD-карте. Освободите место перед выполнением этой операции.</string>
+    <string name="sdcard_not_mounted">SD-карта не обнаружена. Вставьте SD-карту.</string>
+    <string name="record_save">Сохранить</string>
+    <string name="record_close">Закрыть</string>
+    <string name="play_start_time">00:00:00</string>
+    <string name="menu_add_reminder">Добавить напоминание</string>
+    <string name="menu_mod_reminder">Изменить напоминание</string>
+    <string name="menu_add_label">Добавить тег</string>
+    <string name="menu_mod_label">Изменить тег</string>
+    <string name="menu_gen_picture">Создать изображение</string>
+    <string name="menu_take_photo">Сфотографировать</string>
+    <string name="menu_take_video">Снять видео</string>
+    <string name="menu_select_photo">Выбрать изображение</string>
+    <string name="menu_select_video">Выбрать видеозапись</string>
+    <string name="menu_remove_image">Удалить изображение</string>
+    <string name="menu_view_image">Просмотр изображения</string>
+    <string name="menu_crop_image">Обрезать изображение</string>
+    <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
+    <string name="pull_to_refresh_release_label">Потяните для обновления</string>
+    <string name="loading">Загрузка…</string>
+    <string name="pull_to_refresh_update">"Обновлено: "</string>
+    <string name="all_loaded">Все данные загружены</string>
+    <string name="pull_to_rerefresh">Потяните, для обновления</string>
+    <string name="enter_note_hit">Создайте заметку</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="delete_reminder">Удалить напоминание</string>
+    <string name="search_by_label">Просмотр по тегам</string>
+    <string name="note_label_separate">", "</string>
+    <string name="share_weibo">Би Хироши</string>
+    <string name="share_weixin_friend">Друзья WeChat</string>
+    <string name="share_weixin">Круг друзей</string>
+    <string name="share_qq_friend">Друзья QQ</string>
+    <string name="share_qq_zone">Сообщество QQ</string>
+    <string name="share_more">Больше</string>
+    <string name="share_activity_title">Поделиться этим</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

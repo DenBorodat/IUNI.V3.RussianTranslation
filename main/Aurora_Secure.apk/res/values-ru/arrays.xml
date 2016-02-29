@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choice_sort_way_list">
+        <item>По размеру кэша</item>
+        <item>По размеру приложения</item>
+    </string-array>
+    <string-array name="all_app_choice_sort_way_list">
+        <item>пользовательские</item>
+        <item>системные</item>
+        <item>системные группы</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Память календаря</string>
+    <string name="upgrade_msg">Обновление базы данных календаря…</string>
+    <string name="calendar_default_name">По умолчанию</string>
+    <string name="calendar_info">Сведения о календаре</string>
+    <string name="calendar_info_error">Ошибка</string>
+    <string name="calendar_info_no_calendars">Нет календарей</string>
+    <string name="calendar_info_events">Событий: %1$d</string>
+    <string name="calendar_info_events_dirty">Событий: %1$d, Завершённых: %2$d</string>
+    <string name="provider_label">Календарь</string>
+    <string name="debug_tool_delete_button">Удалить сейчас</string>
+    <string name="debug_tool_start_button">Начать</string>
+    <string name="debug_tool_message">Вы собираетесь 1) скопировать базу данных календаря на SD-карту/USB-накопитель, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена по электронной почте.</string>
+    <string name="debug_tool_email_sender_picker">Выберите приложение для отправки</string>
+    <string name="debug_tool_email_subject">База данных календаря добавлена</string>
+    <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Храните как зеницу ока.</string>
+    <string name="gn_calendar_sync_account_disaply_name">Локальные аккаунты</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

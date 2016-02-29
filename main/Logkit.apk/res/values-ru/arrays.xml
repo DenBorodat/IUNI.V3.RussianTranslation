@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_edit_item">
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="log_type">
+        <item>UI</item>
+        <item>Телефон</item>
+        <item>Передача данных</item>
+        <item>Местонахождение</item>
+        <item>Мультимедиа</item>
+        <item>Камера</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>AudioFM</item>
+        <item>Заряд батареи</item>
+        <item>Сбой</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="upload_mode_entries">
+        <item>Производство</item>
+        <item>Разработка</item>
+        <item>Тестирование</item>
+    </string-array>
+    <string-array name="log_server_entries">
+        <item>Сан-Диего</item>
+        <item>Шанхай</item>
+        <item>Ftp</item>
+    </string-array>
+    <string-array name="log_server_values">
+        <item>https://qrdlog.qualcomm.com</item>
+        <item>https://qrd-dm.qualcomm.com</item>
+        <item>FtpServer</item>
+    </string-array>
+    <string-array name="upload_phase">
+        <item>FUT</item>
+        <item>ESG Field Test</item>
+        <item>CleNET Field Test</item>
+        <item>UX Group</item>
+        <item>Loc Tech</item>
+        <item>FUT-QIPL</item>
+        <item>Vivo Field Test</item>
+    </string-array>
+    <string-array name="load_profile_entries">
+        <item>Локальный</item>
+        <item>Удаленный</item>
+    </string-array>
+</resources>

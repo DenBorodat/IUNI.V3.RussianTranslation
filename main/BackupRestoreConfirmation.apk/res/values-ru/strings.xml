@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Полное резервное копирование</string>
+    <string name="restore_confirm_title">Полное восстановление</string>
+    <string name="backup_confirm_text">"Запрошено резервное копирование всех данных на подключенном компьютере. Разрешить?\u000d
+\u000d
+Если вы не запрашивали этого, не разрешайте выполнение операции."</string>
+    <string name="allow_backup_button_label">Создать резервную копию данных</string>
+    <string name="deny_backup_button_label">Не создавать резервную копию</string>
+    <string name="restore_confirm_text">"Запрошено полное восстановление всех данных с подключенного компьютера. Разрешить?\u000d
+\u000d
+Если вы не запрашивали этого, не разрешайте выполнение операции, т. к. она заменит все данные на этом устройстве."</string>
+    <string name="allow_restore_button_label">Восстановить резервную копию</string>
+    <string name="deny_restore_button_label">Не восстанавливать</string>
+    <string name="current_password_text">"Введите пароль для резервного копирования: "</string>
+    <string name="device_encryption_restore_text">Ниже введите ваш пароль шифрования</string>
+    <string name="device_encryption_backup_text">Ниже введите ваш пароль шифрования. Он также будет использован для шифрования архива резервных копий.</string>
+    <string name="backup_enc_password_text">Введите пароль для шифрования всех резервных копий. Если поле останется пустым, будет использован текущий пароль:</string>
+    <string name="backup_enc_password_optional">Чтобы зашифровать все резервные копии, введите пароль:</string>
+    <string name="restore_enc_password_text">"Если восстановленные данные зашифрованы, введите ниже пароль: "</string>
+    <string name="toast_backup_started">Резервное копирование…</string>
+    <string name="toast_backup_ended">Резервное копирование завершено</string>
+    <string name="toast_restore_started">Восстановление…</string>
+    <string name="toast_restore_ended">Восстановление завершено</string>
+    <string name="toast_timeout">Время ожидания истекло</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

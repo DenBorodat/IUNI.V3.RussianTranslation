@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flow_unit">
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="province">
+        <item>Пекин</item>
+        <item>Тяньцзинь</item>
+        <item>Шанхай</item>
+        <item>Чунцин</item>
+        <item>Провинция Хэбэй</item>
+        <item>Провинция Хэнань</item>
+        <item>Провинция Юньнань</item>
+        <item>Провинция Ляонин</item>
+        <item>Провинция Хэйлунцзян</item>
+        <item>Провинция Хунань</item>
+        <item>Провинция Аньхой</item>
+        <item>Провинция Шаньдун</item>
+        <item>Синьцзян-Уйгурский автономный район</item>
+        <item>Провинция Цзянсу</item>
+        <item>Провинция Чжэцзян</item>
+        <item>Провинция Цзянси</item>
+        <item>Провинция Хубэй</item>
+        <item>Гуанси-Чжуанский автономный район</item>
+        <item>Провинция Ганьсу</item>
+        <item>Провинция Шаньси</item>
+        <item>Внутренняя Монголия</item>
+        <item>Провинция Шэньси</item>
+        <item>Провинция Цзилинь</item>
+        <item>Провинция Фуцзянь</item>
+        <item>Провинция Гуйчжоу</item>
+        <item>Провинция Гуандун</item>
+        <item>Провинция Цинхай</item>
+        <item>Тибет</item>
+        <item>Провинция Сычуань</item>
+        <item>Нинся-Хуэйский автономный район</item>
+        <item>Провинция Хайнань</item>
+        <item>Спец. админ. район Сянган</item>
+        <item>Спец. админ. район Аомэнь</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Звонок</item>
+        <item>Без звука</item>
+        <item>Вибросигнал</item>
+        <item>На улице</item>
+    </string-array>
+    <string-array name="entries_list_profile">
+        <item>Звонок</item>
+        <item>Без звука</item>
+        <item>Вибросигнал</item>
+        <item>На улице</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_menu_items">
+        <item>Добавить виджет</item>
+        <item>Изменить обои</item>
+        <item>Сортировка</item>
+        <item>Выровнять иконки</item>
+        <item>Настройки системы</item>
+    </string-array>
+    <string-array name="weather_icon">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Ясно</item>
+        <item>Туман и дымка</item>
+        <item>Дождь от небольшого до среднего, мокрый снег</item>
+        <item>Проливные дожди, грозы</item>
+        <item>Грозы сопровождающиеся градом</item>
+        <item>Небольшой снег</item>
+        <item>Метель, мокрый снег</item>
+        <item>Пыльная буря</item>
+        <item>Ветер с песком</item>
+    </string-array>
+</resources>

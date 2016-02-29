@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vs_near_shop_sort">
+        <item>По рейтингу</item>
+        <item>По времени</item>
+        <item>По цене</item>
+    </string-array>
+    <string-array name="vs_custom_menu_items">
+        <item>Очистить экран</item>
+        <item>Установить</item>
+    </string-array>
+    <string-array name="vs_reminder_alarm_rule">
+        <item>Единожды</item>
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+        <item>Ежемесячно</item>
+        <item>Ежегодно</item>
+    </string-array>
+</resources>

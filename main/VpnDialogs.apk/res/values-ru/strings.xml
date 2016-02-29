@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s пытается установить VPN-подключение</string>
+    <string name="warning">Если продолжить, вы разрешите приложению перехватывать весь сетевой трафик. <b>Не делайте этого, если не доверяете приложению.</b> В противном случае к Вашим данным могут получить доступ вредоносные приложения</string>
+    <string name="accept">Я доверяю этому приложению</string>
+    <string name="legacy_title">VPN-подключение установлено</string>
+    <string name="configure">Настроить</string>
+    <string name="disconnect">Разъединить</string>
+    <string name="session">Сеанс:</string>
+    <string name="duration">Продолжительность:</string>
+    <string name="data_transmitted">Отправлено:</string>
+    <string name="data_received">Получено:</string>
+    <string name="data_value_format">%1$s Б; пакетов: %2$s</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

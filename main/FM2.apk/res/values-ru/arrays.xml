@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+    </string-array>
+    <string-array name="record_durations_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>До завершения</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Все радиостанции</item>
+        <item>Старые хиты</item>
+        <item>Классическая музыка</item>
+        <item>Классический рок</item>
+        <item>Студенческая</item>
+        <item>Кантри</item>
+        <item>Энергия</item>
+        <item>Энергия Test</item>
+        <item>Иностранные</item>
+        <item>Информационные</item>
+        <item>Джаз</item>
+        <item>Новости</item>
+        <item>Ностальгия</item>
+        <item>Старые песни</item>
+        <item>Персональные</item>
+        <item>Общественные</item>
+        <item>Религиозная музыка</item>
+        <item>Беседы на религиозные темы</item>
+        <item>Ритм-н-блюз</item>
+        <item>Рок</item>
+        <item>Расслабляющая</item>
+        <item>Легкий рок</item>
+        <item>Легкий ритм-н-блюз</item>
+        <item>Спортивные</item>
+        <item>Интервью</item>
+        <item>Топ-40</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Все станции</item>
+        <item>Культура</item>
+        <item>Текущие вопросы</item>
+        <item>Для детей</item>
+        <item>Кантри</item>
+        <item>Документалистика</item>
+        <item>Драма</item>
+        <item>Легкая музыка</item>
+        <item>Образование</item>
+        <item>Энергия</item>
+        <item>Энергия тест</item>
+        <item>Финансы</item>
+        <item>Народная музыка</item>
+        <item>Информационные</item>
+        <item>Джаз</item>
+        <item>Легкая классическая музыка</item>
+        <item>Расслабляющая музыка</item>
+        <item>Новости</item>
+        <item>Народная музыка</item>
+        <item>Другая музыка</item>
+        <item>Старые песни</item>
+        <item>Прямой эфир</item>
+        <item>Популярная музыка</item>
+        <item>Религия</item>
+        <item>Рок</item>
+        <item>Наука</item>
+        <item>Классическая музыка</item>
+        <item>Социальные вопросы</item>
+        <item>Спорт</item>
+        <item>Путешествия</item>
+        <item>Разное</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Переименовать</item>
+        <item>Автовыбор</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Северная Америка</item>
+        <item>Европа</item>
+        <item>Япония</item>
+        <item>Япония (широкий диапазон)</item>
+        <item>Австралия</item>
+        <item>Австрия</item>
+        <item>Бельгия</item>
+        <item>Бразилия</item>
+        <item>Китай</item>
+        <item>Чехия</item>
+        <item>Дания</item>
+        <item>Финляндия</item>
+        <item>Франция</item>
+        <item>Германия</item>
+        <item>Греция</item>
+        <item>Гонконг</item>
+        <item>Индия</item>
+        <item>Ирландия</item>
+        <item>Италия</item>
+        <item>Корея</item>
+        <item>Мексика</item>
+        <item>Нидерланды</item>
+        <item>Новая Зеландия</item>
+        <item>Норвегия</item>
+        <item>Польша</item>
+        <item>Португалия</item>
+        <item>Россия</item>
+        <item>Сингапур</item>
+        <item>Словакия</item>
+        <item>Испания</item>
+        <item>Швейцария</item>
+        <item>Швеция</item>
+        <item>Тайвань</item>
+        <item>Турция</item>
+        <item>Великобритания</item>
+        <item>США</item>
+        <item>Пользовательский диапазон</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Северная Америка (от 87.5МГц до 108.0МГц с шагом 200 КГц)</item>
+        <item>Европа (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Япония (от 76.0МГц до 90.0МГц с шагом 100 КГц)</item>
+        <item>Япония (широкий диапазон) (от 90.0 МГц до 108.0 МГц с шагом 50 КГц)</item>
+        <item>Австралия (от 87.7МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Австрия (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Бельгия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Бразилия (от 87.5МГц до 108.0МГц с шагом 200 КГц)</item>
+        <item>Китай (от 87.0МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Чехия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Дания (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Финляндия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Франция (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Германия (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Греция (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Гонконг (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Индия (от 91.0МГц до 106.4МГц с шагом 100 КГц)</item>
+        <item>Ирландия (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Италия (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Корея (от 87.5МГц до 108.0МГц с шагом 200 КГц)</item>
+        <item>Мексика (от 88.1МГц до 107.9МГц с шагом 200 КГц)</item>
+        <item>Нидерланды (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Новая Зеландия (от 88.0МГц до 107.0МГц с шагом 100 КГц)</item>
+        <item>Норвегия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Польша (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Португалия (от 87.5МГц до 108.0МГц с шагом 50 КГц)</item>
+        <item>Россия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Сингапур (от 88.0МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Словакия (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Испания (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Швейцария (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Швеция (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Тайвань (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Турция (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>Великобритания (от 87.5МГц до 108.0МГц с шагом 100 КГц)</item>
+        <item>США(от 88.1МГц до 107.9МГц с шагом 200 КГц)</item>
+        <item>Пользовательский диапазон</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Получить текущие параметры станции</item>
+        <item>Повторное получение текущих параметров станции 20 раз</item>
+        <item>Получить параметры поиска станции</item>
+        <item>"Получить параметры поиска в УКВ-диапазоне "</item>
+        <item>Параметры конфигурации</item>
+    </string-array>
+    <string-array name="cfg_rf1">
+        <item>Установить FM RSSI Delta</item>
+        <item>Установить порог по уровню сигнала</item>
+        <item>Статистика по радиочастотам</item>
+    </string-array>
+    <string-array name="cfg_rf2">
+        <item>Установить SINR</item>
+        <item>Установить пороговый уровень SINR</item>
+        <item>Установить пороговый уровень IntfDetoutLow</item>
+        <item>Установить пороговый уровень IntfDetoutHigh</item>
+        <item>Установить SinrFirstStage</item>
+        <item>Установить RmssiFirstStage</item>
+        <item>Установить CF0Th12</item>
+        <item>Установить тип алгоритма поиска</item>
+        <item>Получить счетчик SINR Samples</item>
+        <item>Получить пороговый уровень SINR</item>
+        <item>Получить SinrFirstStage</item>
+        <item>Получить RmssiFirstStage</item>
+        <item>Получить CF0Th12</item>
+        <item>Получить тип алгоритма поиска</item>
+        <item>Установить пороговый уровень AfJmpRmssi</item>
+        <item>Установить пороговый уровень GoodChRmssi</item>
+        <item>Установить подсчет AfJmpRmssi Samples</item>
+        <item>Получить пороговый уровень AfJmpRmssi</item>
+        <item>Получить пороговый уровень GoodChRmssi</item>
+        <item>Получить подсчет AfJmpRmssi</item>
+        <item>Статистика по радиочастотам</item>
+        <item>Установить счетчик RXREPEAT</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Выбрать параметр</item>
+        <item>Конфигурация параметров</item>
+        <item>Статистика по радиочастотам</item>
+    </string-array>
+    <string-array name="channel_spacing_val">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="channel_spacing_entries">
+        <item>50 КГц</item>
+        <item>100 КГц</item>
+        <item>200 КГц</item>
+    </string-array>
+    <string-array name="band_sweep_methods">
+        <item>Вручную</item>
+        <item>Из файла</item>
+    </string-array>
+</resources>

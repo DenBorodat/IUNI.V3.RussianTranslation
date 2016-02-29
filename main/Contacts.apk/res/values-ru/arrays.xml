@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_call_log_type">
+        <item>Все вызовы</item>
+        <item>Исходящие</item>
+        <item>Входящие</item>
+        <item>Пропущенные</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>Нет вызовов</item>
+        <item>Нет исходящих вызовов</item>
+        <item>Нет входящих вызовов</item>
+        <item>Нет пропущенных вызовов</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+</resources>

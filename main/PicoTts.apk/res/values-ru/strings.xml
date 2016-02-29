@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Синтезатор речи Pico</string>
+    <string name="eng_usa_sample">Это пример английской речи синтезированной с помощью Pico.</string>
+    <string name="eng_gbr_sample">Это пример английской речи синтезированной с помощью Pico.</string>
+    <string name="fra_fra_sample">Это пример французской речи синтезированной с помощью Pico.</string>
+    <string name="deu_deu_sample">Это пример немецкой речи синтезированной с помощью Pico.</string>
+    <string name="ita_ita_sample">Это пример итальянской речи синтезированной с помощью Pico.</string>
+    <string name="spa_esp_sample">Это пример испанской речи синтезированной с помощью Pico.</string>
+    <string name="installed">Установлен</string>
+    <string name="not_installed">Не установлен</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

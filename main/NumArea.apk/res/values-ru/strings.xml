@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Приветствую вас!</string>
+    <string name="welcom_textview">Добро пожаловать в Поиск номера</string>
+    <string name="checkButton">Запрос</string>
+    <string name="setting">Установки</string>
+    <string name="base_setting">Основные настройки</string>
+    <string name="belongcheck">Проверка</string>
+    <string name="belongstyle">Стиль</string>
+    <string name="belonglocation">Местоположение</string>
+    <string name="belongothers">Другие</string>
+    <string name="belongcheckupdata">Проверка обновлений</string>
+    <string name="belongfriend">Друг</string>
+    <string name="belongsuggest">Рекомендация</string>
+    <string name="app_name">Определение номера</string>
+    <string name="search">Поиск</string>
+    <string name="updata">Обновление</string>
+    <string name="test">Тест</string>
+    <string name="ok">Ок</string>
+    <string name="canle">Отмена</string>
+    <string name="unknown_number">Неизвестный номер</string>
+    <string name="unknown_area">Неизвестный регион</string>
+    <string name="error_connect_faild">Сбой сети</string>
+    <string name="error_connect_timeout">Истекло время ожидания сети</string>
+    <string name="error_parse_db">Ошибка анализа БД</string>
+    <string name="error_updata_processing">Ошибка обновления</string>
+    <string name="init_finish">Служба инициализирована</string>
+    <string name="success_connect">Обновление базы данных завершено</string>
+    <string name="user_cancel_updata">Пользователь отменил обновление</string>
+    <string name="wait_connecting">Обновление, подождите!</string>
+    <string name="wait_init">Инициализация службы</string>
+    <string name="error_init_not_finish">Неудачная инициализация</string>
+    <string name="db_is_last_version">База данных последней версии</string>
+    <string name="import_test">Импорт данных T карты</string>
+    <string name="import_test1111111">Импорт данных T карты</string>
+    <string name="areanum_style">Стиль окна</string>
+    <string name="cannt_tobenull">Логин не может быть пустым</string>
+    <string name="cannt_callout_1_9">Номер должен состоять из цифр 1-9</string>
+    <string name="finish_init">Инициализация завершена</string>
+    <string name="limit_num">Вы можете ввести максимум 30 символов</string>
+    <string name="unknownum_cannot_call_out">Введено неизвестрое число</string>
+    <string name="add_success">Добавлено</string>
+    <string name="add_umsuccess">Не удалось добавить цифры, они не могут быть добавлены</string>
+    <string name="add_umsuccess_nowidget">Не удалось добавить виджет на Рабочий стол</string>
+    <string name="dialog_cancle">Отмена</string>
+    <string name="dialog_ok">Ок</string>
+    <string name="txt_prompt">Предупреждение</string>
+    <string name="txt_quit_desc">Выйти из программы?</string>
+    <string name="phone">"Телефон: "</string>
+    <string name="areacode">"Код города: "</string>
+    <string name="internationalareacode">"Международный код: "</string>
+    <string name="tel">"Тел: "</string>
+    <string name="welcom">О приложении</string>
+    <string name="aora_about">"О продукте: \u000d
+奥软来电通是深圳市奥软科技推出的个性化号码查询 \u000d
+及归属地应用服务，主要为广大用户方便快捷的查询 \u000d
+常用的号码及归属地信息等相关号码信息。 \u000d
+ \u000d
+Отказ от ответственности: \u000d
+以上信息仅参考,不作为其它途径使用。 \u000d
+ \u000d
+Описание тарифов: \u000d
+本应用免费使用,使用检查更新及提交建议会产生一 \u000d
+定的GPRS流量,具体资费标准请咨询当地运营商。 \u000d
+ \u000d
+О нас: \u000d
+Версия: V1.0.3 \u000d
+Релиз: Shenzhen Network Technology Co, Ltd\u000d
+Email: support@aoratec.com \u000d
+Горячая линия: 400-799-6666"</string>
+    <string name="move_text">"Можете перетащить поле Подсказка в любое место для копирования! \u000d
+Нажмите кнопку Назад для отмены изменений."</string>
+    <string name="about_title">О</string>
+    <string name="about_title1">О продукции</string>
+    <string name="nonet">Поиск обновлений</string>
+    <string name="enter_net_option">Ошибка сети, проверьте точку доступа или состояние сети</string>
+    <string name="point_out">Предупреждение</string>
+    <string name="point_out_text">Требуется доступ к Интернету, продолжить?</string>
+    <string name="please_add_number">Добавьте номер в Быстрый набор</string>
+    <string name="sim_card_error">Ошибка SIM</string>
+    <string name="mytest" />
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>

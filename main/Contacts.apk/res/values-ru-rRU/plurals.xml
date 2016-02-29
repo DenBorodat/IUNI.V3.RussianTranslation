@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aurora_import_contact">
+        <item quantity="other">Будет импортировано: %1$d</item>
+        <item quantity="one">Будет импортирован: %1$d</item>
+    </plurals>
+    <plurals name="aurora_delete_contact">
+        <item quantity="other">Будет удалено: %s</item>
+        <item quantity="one">Будет удален: 1</item>
+    </plurals>
+    <plurals name="gn_searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найден: 1</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+        <item quantity="one">Контакт с номером телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контакт: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найден: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Объединено %0$d контактов</item>
+        <item quantity="one">Не объединено</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Групп: %0$d</item>
+        <item quantity="one">Группа: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d контактов из %2$s</item>
+        <item quantity="one">%1$d контакт из %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контакт: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовых писем: %1$d</item>
+        <item quantity="one">Голосовое письмо: 1</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Журналов вызовов: %d</item>
+        <item quantity="one">Журнал вызовов: 1</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_000d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_000e">false</item>
+</resources>

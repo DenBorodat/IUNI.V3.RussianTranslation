@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>SIM 3</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Выкл</item>
+        <item>Все номера</item>
+        <item>Черный список</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (авто)</item>
+        <item>Только 3G</item>
+        <item>Только 2G</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>2G/3G (авто)</item>
+        <item>Только 3G</item>
+    </string-array>
+    <string-array name="lte_prefer_network_mode_choices">
+        <item>4G/3G/2G(Авто)</item>
+        <item>3G/2G(Авто)</item>
+    </string-array>
+    <string-array name="sglte_network_mode_choices">
+        <item>4G/3G/2G(Авто)</item>
+        <item>3G/2G(Авто)</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Ошибка сети</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>Только TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo (авторежим)</item>
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтение)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Авто</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Телетайп отключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>В режиме \"Без звука\"</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="aurora_preferred_network_mode_choices">
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтение)</item>
+    </string-array>
+    <string-array name="aurora_3rd_sim_choices">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="cm_preferred_network_mode_choices">
+        <item>GSM/WCDMA/LTE</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтение)</item>
+    </string-array>
+    <string-array name="oneplus_preferred_network_mode_choices">
+        <item>GSM/WCDMA/TDSCDMA/LTE</item>
+        <item>WCDMA/TDSCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/TDSCDMA</item>
+    </string-array>
+    <string-array name="h6_preferred_network_mode_choices">
+        <item>GSM/LTE</item>
+        <item>GSM/TDSCDMA</item>
+        <item>Только GSM</item>
+    </string-array>
+    <string-array name="mtk_preferred_network_mode_choices">
+        <item>Только 3G</item>
+        <item>Только 2G</item>
+        <item>2G/3G (предпочтение)</item>
+    </string-array>
+</resources>

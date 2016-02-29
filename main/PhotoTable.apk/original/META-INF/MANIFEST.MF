@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+
+Name: res/xml/photo_flipper_dream.xml
+SHA1-Digest: cOUwjKxoJgm/CV/qAIKXfwmT+ic=
+
+Name: res/anim/slideshow_out.xml
+SHA1-Digest: UkjBre6IOXUkDmK4aPDWyjiIYVI=
+
+Name: res/drawable/vignette_tl.xml
+SHA1-Digest: 7L9yt89MVMdsJ5JHa/RiOpe1iYY=
+
+Name: res/drawable-nodpi/blank_photo.png
+SHA1-Digest: tjQoV+3ovPgM6F2KCPQDhxv5bFE=
+
+Name: resources.arsc
+SHA1-Digest: 56bfsSjIfLI+uosfpx3C0Ox5mf4=
+
+Name: res/mipmap-mdpi/ic_launcher_photoframe.png
+SHA1-Digest: WZXBwo2uN/8kEavijG1CyH9ZgoI=
+
+Name: res/xml/photo_table_dream.xml
+SHA1-Digest: NzwuJ/l24Tj/UV8Wte5TOMH4usU=
+
+Name: res/mipmap-hdpi/ic_launcher_photoframe.png
+SHA1-Digest: psAaA7YVsMLUK7M69GkZQX2CrgM=
+
+Name: res/drawable-mdpi/frame.9.png
+SHA1-Digest: r5PygRsgXRI05pAifbgl9nO38Hc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Xu93gtpdHNGbaVHAnMHTTeUW1wM=
+
+Name: res/mipmap-xhdpi/ic_launcher_photoframe.png
+SHA1-Digest: uX44GdUXmgCzlV66C2E8vXRBi5k=
+
+Name: res/mipmap-mdpi/ic_launcher_phototable.png
+SHA1-Digest: SUyGbh5ch+4lFMg013qm98MNMbw=
+
+Name: res/drawable/vignette_br.xml
+SHA1-Digest: Dfwoq4dddrcKqfMUuIO21m/f2dg=
+
+Name: res/drawable-hdpi/frame.9.png
+SHA1-Digest: 49Kx4cvzYDftR4tiG1rIy3DCpl0=
+
+Name: res/layout/settingslist.xml
+SHA1-Digest: e8relUQnO0goxM+MSMBEdZHByyI=
+
+Name: res/layout-sw800dp/table.xml
+SHA1-Digest: 65lyOgROtkBd0kq/wPsAs+4dHAc=
+
+Name: res/layout/carousel.xml
+SHA1-Digest: J8n6G3IWd6Lh+BSHHi/puPHJwkw=
+
+Name: res/layout/table.xml
+SHA1-Digest: JpzoohPkUFcK4/dD9V/X6WhQAOM=
+
+Name: res/layout/header.xml
+SHA1-Digest: FK2VmrA3C3MWmdhRh5TMUTYfW/M=
+
+Name: res/mipmap-xhdpi/ic_launcher_phototable.png
+SHA1-Digest: hQ3npAHPdhwa+vR/3b2NMRzEzpI=
+
+Name: res/layout/photo.xml
+SHA1-Digest: c54ehiTmKfMIP/4s5R2suona3PQ=
+
+Name: res/layout/album.xml
+SHA1-Digest: cF57VViryFPUaOxdCSeRk0NaEOc=
+
+Name: classes.dex
+SHA1-Digest: ftQFPfcgijs4kKrCJAJ3fhD1054=
+
+Name: res/drawable-xhdpi/frame.9.png
+SHA1-Digest: 4xJCwKntk7xNprn5kI1O+o70jAg=
+
+Name: res/anim/slideshow_in.xml
+SHA1-Digest: BGwTmViJz9EvALYgPY3zp1TZbPM=
+
+Name: res/layout/bummer.xml
+SHA1-Digest: 5D0TXtc4LBp83IXfAbattc9gUpw=
+
+Name: res/menu/photodream_settings_menu.xml
+SHA1-Digest: Z1k/MSGUnprAymIo5+37WXXaOkk=
+
+Name: res/mipmap-hdpi/ic_launcher_phototable.png
+SHA1-Digest: aoNlA/UufRlNSOAaMHrqtHDyW74=
+
+Name: res/drawable/table.xml
+SHA1-Digest: FBWSEZzuM+hr8TBYflqhL2ZjKNQ=
+

@@ -1,0 +1,91 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: fUbVCROAy4oJ+/utMdO0eMSjAAQ=
+
+Name: res/anim/slideshow_out.xml
+SHA1-Digest-Manifest: XU12ADXw/6hYWUJcE9VwFpLNavA=
+
+Name: res/xml/photo_flipper_dream.xml
+SHA1-Digest-Manifest: kBu80oUDC3K6EKyo4k8m8EQQlHc=
+
+Name: res/drawable/vignette_tl.xml
+SHA1-Digest-Manifest: 0iKCZ2DqpHXLAsYBdzvaOOHCfKE=
+
+Name: res/drawable-nodpi/blank_photo.png
+SHA1-Digest-Manifest: DwUycie394rb3KJ81esfN1756bw=
+
+Name: res/mipmap-mdpi/ic_launcher_photoframe.png
+SHA1-Digest-Manifest: xKpAb86Npy54hNwwm6ydU3n7+PA=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: 60FlwoONvtQbumtvIMTP2fwl4/I=
+
+Name: res/xml/photo_table_dream.xml
+SHA1-Digest-Manifest: SVviZCDFg7Sb1cLl4tEQCuYLRtE=
+
+Name: res/mipmap-hdpi/ic_launcher_photoframe.png
+SHA1-Digest-Manifest: 7Z7h/xNJFaYvKH3YVT4kt4FFsSQ=
+
+Name: res/drawable-mdpi/frame.9.png
+SHA1-Digest-Manifest: 7Hb1Xm8qeL9PLzbDLSFTbtK87S0=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: pFL/k3sQvlAjZhVtD9Yf2bK5wJY=
+
+Name: res/mipmap-xhdpi/ic_launcher_photoframe.png
+SHA1-Digest-Manifest: gs4ihK4xLuAgGv3LaGt3CLRBucI=
+
+Name: res/mipmap-mdpi/ic_launcher_phototable.png
+SHA1-Digest-Manifest: 5HykKpU0WoicynqkFwUHBmgMow4=
+
+Name: res/drawable/vignette_br.xml
+SHA1-Digest-Manifest: iUSj7vc+Y0TakGQPOk7o2sRT75U=
+
+Name: res/drawable-hdpi/frame.9.png
+SHA1-Digest-Manifest: 3dIAHKSg+IkF75BW5YUYy+rr5TM=
+
+Name: res/layout/settingslist.xml
+SHA1-Digest-Manifest: WABz2MBLKUj1FUB6DfXyr7AADMw=
+
+Name: res/layout-sw800dp/table.xml
+SHA1-Digest-Manifest: /RplgS/PMpFUwIJfPLndFOmvxRY=
+
+Name: res/layout/carousel.xml
+SHA1-Digest-Manifest: QLG54NuwF7RKck5XO2dxVgHZjJM=
+
+Name: res/layout/table.xml
+SHA1-Digest-Manifest: PuU/0LhQAsVMT3NXL+p09fAfR+A=
+
+Name: res/layout/header.xml
+SHA1-Digest-Manifest: z6nf8QRueZt9nr1B02zqDeUoy9g=
+
+Name: res/mipmap-xhdpi/ic_launcher_phototable.png
+SHA1-Digest-Manifest: ZnfE+5sQA4xLko77WUeOOYQwky4=
+
+Name: res/layout/photo.xml
+SHA1-Digest-Manifest: sgCyAYV60x0vyDF9y3ITwnGmwUc=
+
+Name: res/layout/album.xml
+SHA1-Digest-Manifest: g+QxYpAWn2UcLG7vJc2vkYI066o=
+
+Name: classes.dex
+SHA1-Digest-Manifest: v5cPeEoGrt6PzfflGeyYxzwG4Ek=
+
+Name: res/drawable-xhdpi/frame.9.png
+SHA1-Digest-Manifest: 2j4tdEbzmUQI95b2iKYxJV0+sAw=
+
+Name: res/anim/slideshow_in.xml
+SHA1-Digest-Manifest: 1qfsrNvIwwIiSivm+TnlY8p/ViI=
+
+Name: res/menu/photodream_settings_menu.xml
+SHA1-Digest-Manifest: nm4atKNMTBuWX/ULAnD7DEDM2p0=
+
+Name: res/layout/bummer.xml
+SHA1-Digest-Manifest: VUYLeWjKAKb6nJKaTt2E81h6Kfw=
+
+Name: res/mipmap-hdpi/ic_launcher_phototable.png
+SHA1-Digest-Manifest: BaijHDscj3fEPOWgeCyE7+Cr5vM=
+
+Name: res/drawable/table.xml
+SHA1-Digest-Manifest: wAVqGRimdkXS/SMInu+L+te5/dI=
+

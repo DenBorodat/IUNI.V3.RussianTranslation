@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заставки</string>
+    <string name="table_screensaver_name">Коллаж</string>
+    <string name="flipper_screensaver_name">Фоторамка</string>
+    <string name="posts_album_name">Опубликованные фотографии</string>
+    <string name="unknown_album_name">Альбом без названия</string>
+    <string name="stock_photo_album_name">Стандартные фото</string>
+    <string name="local_source_name">Фотографии из устройства</string>
+    <string name="need_to_configure">Фотографии не выбраны</string>
+    <string name="photodream_select_all">Выбрать все</string>
+    <string name="photodream_select_none">Отменить выбор</string>
+    <string name="no_photos">На устройстве нет фотографий</string>
+    <string name="zenk_notice">Zenk лжец и мошенник!</string>
+    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
+</resources>
