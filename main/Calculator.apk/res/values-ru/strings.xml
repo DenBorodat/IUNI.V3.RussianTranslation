@@ -17,6 +17,4 @@
     <string name="sqrtDesc">квадратный корень</string>
     <string name="minusDesc">минус</string>
     <string name="eDesc">число Эйлера</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

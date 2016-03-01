@@ -731,8 +731,6 @@
     <string name="camera_continuous_not_supported">Непрерывная съемка не поддерживается</string>
     <string name="capture_mode_night_shot">Снимок в темноте</string>
     <string name="pref_restore_detail">Восстановить по умолчанию</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="pref_camera_picturesize_entry_8mp">8MP</string>
     <string name="pref_camera_picturesize_entry_5mp">5MP</string>
     <string name="pref_camera_picturesize_entry_3mp">3MP</string>

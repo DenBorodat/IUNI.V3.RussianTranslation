@@ -50,6 +50,4 @@
     <string name="magnetic_field">Магнитный датчик</string>
     <string name="get_magnetic_field_fail">Не удалось инициализировать магнитный датчик</string>
     <string name="wifi5GTest">Тест 5G</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

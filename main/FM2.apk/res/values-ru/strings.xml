@@ -204,8 +204,6 @@
     <string name="user_defind_band_msg">Введите частоты в диапазоне 76.0 - 108.0</string>
     <string name="set">Установить</string>
     <string name="cancel">Отменить</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="msg_headset_plug_out">При отключении гарнитуры, FM-радио автоматически останавливается</string>
     <string name="cannot_startup_during_call">Радио не работает во время вызова</string>
     <string name="cannot_startup_during_airplane">Радио не работает в авиарежиме!</string>

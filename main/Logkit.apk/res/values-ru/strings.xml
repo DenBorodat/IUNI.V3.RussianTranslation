@@ -160,6 +160,4 @@
     <string name="upload_phase_default">FUT</string>
     <string name="anonymousUser">Анонимный пользователь</string>
     <string name="statistics">Статистика</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

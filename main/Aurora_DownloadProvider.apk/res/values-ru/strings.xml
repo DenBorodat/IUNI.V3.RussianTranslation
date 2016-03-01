@@ -44,6 +44,4 @@
     <string name="download_error">Неудачно</string>
     <string name="download_running_percent">В процессе, %d%%</string>
     <string name="download_paused">Пауза</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

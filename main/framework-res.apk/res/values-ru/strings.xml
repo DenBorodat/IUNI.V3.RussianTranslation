@@ -1544,8 +1544,6 @@
     <string name="webviewchromium_profiler_stopped_toast">Профилирование завершено. Результаты сохранены в файле %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">Не удалось запустить профилировщик: не подготовлен внешний накопитель</string>
     <string name="webviewchromium_profiler_error_toast">Не удалось запустить профилировщик</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="keyguard_password_pin_failed">Ошибка ввода PIN!</string>
     <string name="keyguard_password_puk_failed">Ошибка ввода PUK!</string>
     <item type="string" name="APKTOOL_DUMMY_05fe">false</item>

@@ -2269,8 +2269,6 @@
     <string name="un_choice">Не выбрано</string>
     <string name="no_longer_hint">Не показывать</string>
     <string name="system">система</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="enable_art_invalid">ART режим</string>
     <string name="select_runtime_warning_message_invalid">Перезагрузиться для изменения среды выполнения с \"%1$s\" на \"%2$s\"?</string>
     <string name="theme_settings_title">Тема</string>

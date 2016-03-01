@@ -171,6 +171,4 @@
     <string name="net_work_error">Ошибка сети, калибровка не произведена</string>
     <string name="no_sim_for_net">Нет сети для этой SIM-карты, регулировака невозможна</string>
     <string name="province">Область</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

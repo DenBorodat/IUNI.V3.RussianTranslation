@@ -118,8 +118,6 @@
     <string name="delete_record">Удалить запись</string>
     <string name="start_server">Запустить TCP-сервер</string>
     <string name="notify_server">Оповестить TCP-сервер</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="map_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
     <string name="map_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>
     <string name="map_acceptance_timeout_message">Время на подключение к %1$s истекло</string>

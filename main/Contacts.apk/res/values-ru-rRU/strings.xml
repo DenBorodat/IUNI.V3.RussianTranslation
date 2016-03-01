@@ -1295,8 +1295,6 @@
 Не завершено: %d"</string>
     <string name="user_profile_cannot_sd_card">Невозможно поделиться контактом таким образом</string>
     <string name="aurora_local_number">Внутренний номер</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="gn_stop_operate_title">Завершить</string>
     <string name="gn_stop_operate_confirm_msg">Завершить операцию?</string>
     <string name="gn_add_firewall">В Черный список</string>

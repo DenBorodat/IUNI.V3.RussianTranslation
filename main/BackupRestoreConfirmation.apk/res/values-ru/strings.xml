@@ -23,6 +23,4 @@
     <string name="toast_restore_started">Восстановление…</string>
     <string name="toast_restore_ended">Восстановление завершено</string>
     <string name="toast_timeout">Время ожидания истекло</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

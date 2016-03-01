@@ -6,8 +6,6 @@
     <string name="nian_dai_info">音乐里的时光机</string>
     <string name="mood_info">懂你的阴晴圆缺</string>
     <string name="style_info">每一面不同的你</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="create_playlist_create_text_prompt">Откройте клавиатуру, чтобы ввести название для нового плейлиста, или нажмите \"Сохранить\", чтобы сохранить плейлист под названием \"%s\".</string>
     <string name="rename_playlist_same_prompt">Откройте клавиатуру, чтобы ввести новое название для плейлиста \"%s\".</string>
     <string name="rename_playlist_diff_prompt">Откройте клавиатуру, чтобы ввести другое название для плейлиста \"%1$s\", или нажмите \"Сохранить\", чтобы сохранить плейлист под названием \"%2$s\".</string>

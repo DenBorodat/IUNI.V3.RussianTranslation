@@ -45,6 +45,4 @@
     <string name="send_file">Поделиться</string>
     <string name="has_no_free_memory">Недостаточно места хранения, освободите место</string>
     <string name="no_network_2">Нет сети</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

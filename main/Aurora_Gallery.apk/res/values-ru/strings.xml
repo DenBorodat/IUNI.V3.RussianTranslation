@@ -544,8 +544,6 @@
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="accessibility_switch">%1$s переключить</string>
     <string name="empty">" "</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="editor_grad_saturation">Насыщенность</string>
     <item type="string" name="APKTOOL_DUMMY_00ab">false</item>
     <item type="string" name="APKTOOL_DUMMY_00ac">false</item>

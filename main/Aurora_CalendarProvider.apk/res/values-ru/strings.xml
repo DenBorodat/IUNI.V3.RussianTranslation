@@ -16,6 +16,4 @@
     <string name="debug_tool_email_subject">База данных календаря добавлена</string>
     <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Храните как зеницу ока.</string>
     <string name="gn_calendar_sync_account_disaply_name">Локальные аккаунты</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

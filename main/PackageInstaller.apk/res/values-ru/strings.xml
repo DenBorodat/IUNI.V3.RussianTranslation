@@ -82,6 +82,4 @@
     <string name="install_failed_version_downgrade">Установлена более новая версия приложения</string>
     <string name="clear_residual_files"> Удалить остатки</string>
     <string name="clear_sucess"> очищено</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

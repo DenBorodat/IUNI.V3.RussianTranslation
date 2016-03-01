@@ -195,6 +195,4 @@
     <string name="vs_reminder_alarm_no_reminder_found">Не напоминать</string>
     <string name="vs_reminder_alarm_check_calendar">Для просмотра в календаре</string>
     <string name="vs_reminder_alarm_query_title_text">Напомнить</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

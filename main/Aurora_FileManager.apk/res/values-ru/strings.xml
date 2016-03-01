@@ -109,6 +109,4 @@
     <string name="pri_back_movies">Восстановлено в папку Фильмы</string>
     <string name="pri_back_dcim">Восстановлено в Галерею</string>
     <string name="max_filename">Длина имени файла достигла предела</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

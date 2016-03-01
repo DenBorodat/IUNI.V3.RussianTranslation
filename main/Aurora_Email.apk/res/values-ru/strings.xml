@@ -672,8 +672,6 @@
     <string name="aurora_login_error_messae">"Попробуйте следующее:\u000d
 1.Откройте сервис IMAP в Почте QQ\u000d
 2.Введите снова верный адрес и пароль"</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="aurora_signature_defualt">Отправлено из IUNI OS</string>
     <string name="aurora_email_account_1">Аккаунт почты</string>
     <string name="aurora_backup_to_calendar">Резервное копирование</string>

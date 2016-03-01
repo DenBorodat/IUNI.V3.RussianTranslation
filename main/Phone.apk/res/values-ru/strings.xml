@@ -1297,6 +1297,4 @@
     <string name="private_unknown_contact">Неизвестный номер</string>
     <string name="third_data_support_title">Служба передачи данных</string>
     <string name="sim_data_support_summary">Использовать переключение карт</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

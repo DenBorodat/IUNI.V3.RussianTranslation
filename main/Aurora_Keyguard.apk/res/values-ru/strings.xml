@@ -156,8 +156,6 @@
     <string name="text_chart_finish">Зарядка завершена</string>
     <string name="text_palm_rejection">Пожалуйста, не заслоняйте верхнюю часть телефона</string>
     <string name="toast_simlock_voice">Голосовая разблокировка не поддерживается на заблокированной SIM-карте</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="app_name">Блокировка экрана</string>
     <string name="secure_app_name">UnifiedCamera</string>
     <string name="none_menu_item">Безопасность отключена</string>

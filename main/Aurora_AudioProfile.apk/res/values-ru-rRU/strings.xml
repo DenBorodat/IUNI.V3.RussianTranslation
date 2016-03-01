@@ -130,8 +130,6 @@
     <string name="internal_storage_disable">Внутренняя память недоступна</string>
     <string name="none_select">Ничего не выбрано</string>
     <string name="set_ringtone">Уст. мелодию</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <item type="string" name="APKTOOL_DUMMY_0082">false</item>
     <item type="string" name="APKTOOL_DUMMY_0083">false</item>
     <item type="string" name="APKTOOL_DUMMY_0084">false</item>

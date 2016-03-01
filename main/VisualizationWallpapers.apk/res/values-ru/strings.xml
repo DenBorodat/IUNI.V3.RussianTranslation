@@ -11,6 +11,4 @@
     <string name="vis3_desc">Показывает частотный спектр любого проигрываемого трека</string>
     <string name="vis4_desc">Воспроизводит метр аналоговой звуковой дорожки</string>
     <string name="vis5_desc">Все музыкальные визуализации вместе медленно вращаются в 3D</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
 </resources>

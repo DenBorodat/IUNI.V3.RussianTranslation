@@ -347,8 +347,6 @@
     <string name="zzzzz_gn_charging_cold">"Невозможно зарядить устройство из-за слишком низкой температуры. \u000d
  Перед тем как поставить устройство на зарядку, дождитесь нормальной температуры."</string>
     <string name="zzzzz_gn_charging_cold_unplug">Температура батареи слишком низкая. Прекратите пользоваться устройством.</string>
-    <string name="zenk_notice">Zenk лжец и мошенник!</string>
-    <string name="kdevlab_copyright">Эта прошивка переведена с помощью технологии BARS. (C) 2015 KDevLab. Все права защищены.</string>
     <string name="toast_rotation_locked">Альбомная ориентация заблокирована</string>
     <item type="string" name="APKTOOL_DUMMY_0074">false</item>
     <item type="string" name="APKTOOL_DUMMY_00d6">false</item>
